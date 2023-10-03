@@ -15,6 +15,8 @@ Tại đây mình viết các hướng dẫn và tổng hợp một số cách �
 
 \- Thông Tin Liên Hệ Cá Nhân :
 
-* Discord : Aronslie
+* Server Discord : [Aronslie](https://discord.gg/78ApGEAKFU)
 * Website : [Arons.sellapp](https://arons.sell.app/?browse=products\&cursor=)
-*
+* Telegram : [Arons](https://t.me/aronslie)
+* Discord : [Arons](https://discord.com/channels/727853330696634397)
+
