@@ -2,19 +2,24 @@
 
 **NGƯỜI CHƠI**
 
-* Bất Tử
-* Vô hạn thể lực
-* Thời gian hồi chiêu\
+* Bất Tử\
+  \- Tắt/mở\
+  \- Đồng bộ với HP : Tuỷ chỉnh ngưỡng máu kích hoạt bất tử\
+  \+ VD : khi máu còn 70% sẽ kích hoạt bất tử
+* Vô hạn thể lực\
+  \- Tắt/mở\
+  \- Đồng bộ với thể lực : Tuỷ chỉnh ngưỡng Thể lực kích hoạt vô hạn
+* Hồi chiêu nhanh\
   \-\
   \-\
   \-\
   \-
 * No-clip\
-  \-\
-  _-_\
-  \-\
-  \-\
-  \-
+  \- Tắt/mở\
+  _-_ Không hoạt ảnh\
+  \- Chạy trên nước\
+  \- Di chuyển theo góc nhìn camera\
+  \-&#x20;
 * Hiệu ứng tấn công\
   \-\
   \-\

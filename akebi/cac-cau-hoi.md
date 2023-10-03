@@ -1,6 +1,6 @@
 # 🔍 Các Câu Hỏi
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Tại sao mình không hiện menu và bị crash khi vừa vào ?**
 {% endhint %}
 
@@ -10,14 +10,14 @@
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-03 135107.png" alt=""><figcaption><p>Ảnh minh hoạ</p></figcaption></figure>
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Tại sao mình lại bị xoá laucher khi vừa bật ?**
 {% endhint %}
 
 \- Bạn hãy <mark style="color:orange;">\[Windows Security]</mark> - <mark style="color:orange;">\[Viruss & threat protection]</mark> phần <mark style="color:orange;">\[Viruss & threat protection settings]</mark> chọn <mark style="color:orange;">\[Manage settings]</mark> Tắt tất cả .\
 **-** Vào <mark style="color:orange;">\[App & Bowser control]</mark> - chọn <mark style="color:orange;">\[Reputation based protection setting</mark>] - Tắt tất cả
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Làm cách nào để bật kill aura ?**
 {% endhint %}
 
@@ -50,23 +50,18 @@ Vào \[Windows Security] - \[Viruss & threat protection] phần \[Viruss & threa
 
 * Chọn Exclusions \[ add or remove Exclusions] Chọn vào phần Folder , Chọn folder akebi đó ( việc chọn này sẽ bỏ qua gần như các tường lửa để cho file chạy và không cần phải tắt thêm gì ) theo mình hiểu là vây :)))
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Làm cách nào để setup custom teleports ?**
 {% endhint %}
 
 1. Vào mục <mark style="color:orange;">\[TP tuỳ chỉnh]</mark> bên trái
 2. Chọn phần <mark style="color:orange;">\[Tuỳ Chỉnh Dịch Chuyển]</mark>&#x20;
 3. Chọn \[Kích Hoạt] - <mark style="color:orange;">\[Tự Dịch chuyển]</mark> (Thời gian để 5S cho máy mạnh , 10-20S cho người máy yếu)
-
-<div align="center">
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 130639.png" alt="Chọn biểu tượng này của Phần TP tuỳ chỉnh"><figcaption><p>Chọn biểu tượng này của Phần TP tuỳ chỉnh</p></figcaption></figure>
-
-</div>
+4. Chọn biểu tượng này ![](<../.gitbook/assets/Screenshot 2023-10-03 130639.png>)
 
 Nó sẽ hiện ra bảng này
 
-<figure><img src="../.gitbook/assets/spaces_ZbKaBGYDYr0igtCwvs4p_uploads_3PZfjaeQ2LzdXrgjica0_image.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces_ZbKaBGYDYr0igtCwvs4p_uploads_3PZfjaeQ2LzdXrgjica0_image (1).webp" alt=""><figcaption></figcaption></figure>
 
 
 

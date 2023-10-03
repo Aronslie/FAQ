@@ -10,13 +10,16 @@
 * [🕹 Chức năng](akebi/chuc-nang.md)
 * [🔍 Các Câu Hỏi](akebi/cac-cau-hoi.md)
 
-## AKEBI
+## AKEBI ENG
 
-* [AKEBI-ENG](akebi-1/akebi-eng.md)
-* [👤 INFO](akebi-1/info.md)
-* [🔑 HOW TO BUY ?](akebi-1/how-to-buy.md)
+* [👤 INFO](akebi-eng/info.md)
+* [🔑 HOW TO BUY ?](akebi-eng/how-to-buy.md)
 
 ***
 
 * [📖 Instruction](instruction.md)
 * [Page 2](page-2.md)
+
+## Unicore
+
+* [Page 1](unicore/page-1.md)

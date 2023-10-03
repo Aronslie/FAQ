@@ -14,7 +14,7 @@ layout:
 
 # 📚 INSTRUCTION / GUIDE
 
-[**`ENGLISH AKEBI`**](akebi-1/akebi-eng.md)\
+[**`ENGLISH AKEBI`**](broken-reference)\
 [**`VN AKEBI`**](broken-reference)
 
 <details>
