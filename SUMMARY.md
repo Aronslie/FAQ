@@ -10,11 +10,11 @@
 * [🕹 Chức năng](akebi/chuc-nang.md)
 * [🔍 Các Câu Hỏi](akebi/cac-cau-hoi.md)
 
-## Group 1
+## AKEBI
 
-* [AKEBI-ENG](group-1/akebi-eng.md)
-* [👤 INFO](group-1/info.md)
-* [🔑 HOW TO BUY ?](group-1/how-to-buy.md)
+* [AKEBI-ENG](akebi-1/akebi-eng.md)
+* [👤 INFO](akebi-1/info.md)
+* [🔑 HOW TO BUY ?](akebi-1/how-to-buy.md)
 
 ***
 
