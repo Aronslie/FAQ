@@ -2,6 +2,10 @@
 
 
 
+{% hint style="danger" %}
+Cảnh báo : Chỉ hỗ trợ win 10 trở lên các bản win 10 trở xuống sẽ không được hỗ trợ
+{% endhint %}
+
 {% hint style="success" %}
 Hướng Dẫn Chạy AKEBI&#x20;
 {% endhint %}
