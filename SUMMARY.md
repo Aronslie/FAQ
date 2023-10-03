@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😀 Giới Thiệu](README.md)
+* [📚 INSTRUCTION / GUIDE](README.md)
 
 ## AKEBI
 
@@ -14,7 +14,7 @@
 
 * [AKEBI-ENG](group-1/akebi-eng.md)
 * [👤 INFO](group-1/info.md)
-* [🔑 How To Buy](group-1/how-to-buy.md)
+* [🔑 How To Buy ?](group-1/how-to-buy.md)
 
 ***
 
