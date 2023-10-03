@@ -14,12 +14,9 @@
 
 * [👤 INFO](akebi-eng/info.md)
 * [🔑 HOW TO BUY ?](akebi-eng/how-to-buy.md)
-
-***
-
-* [📖 INSTRUCTION](instruction.md)
-* [🕹 FUNCTIONS](functions.md)
-* [🔍 QUESTIONS](questions.md)
+* [📖 INSTRUCTION](akebi-eng/instruction.md)
+* [🕹 FUNCTIONS](akebi-eng/functions.md)
+* [🔍 QUESTIONS](akebi-eng/questions.md)
 
 ## Unicore
 

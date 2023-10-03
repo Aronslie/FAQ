@@ -6,7 +6,7 @@ Why didn't I show the menu and crashed when I came in game ?
 
 * If you do not show menu please check if you are enabling overplay software showing parameters such as MSIburner, if yes please turn it off . press F1 to open the menu or mark ' according to your file setting. For crashing, go to the cfg File.json (file setting ) check if the File is entered incorrectly key , or if the expired key will not have a place to enter the key again (in this case, reload the config file )
 
-<figure><img src=".gitbook/assets/Screenshot 2023-10-03 135107.png" alt=""><figcaption><p>Ảnh minh hoạ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 135107.png" alt=""><figcaption><p>Ảnh minh hoạ</p></figcaption></figure>
 
 {% hint style="info" %}
 Why am I deleted laucher when I switched on ?
@@ -64,11 +64,11 @@ Go in <mark style="color:orange;">\[Windows Security]</mark> - <mark style="colo
 1. Go to \[custom TP] on the left&#x20;
 2. Select section \[custom shift]&#x20;
 3. Select \[activation]- \[Self-displacement] (time to 5s for Strong PC, 10-20s for weak PC)
-4. Select this icon ![](<.gitbook/assets/Screenshot 2023-10-03 130639.png>)
+4. Select this icon ![](<../.gitbook/assets/Screenshot 2023-10-03 130639.png>)
 
 It will show this table
 
-<figure><img src=".gitbook/assets/spaces_ZbKaBGYDYr0igtCwvs4p_uploads_3PZfjaeQ2LzdXrgjica0_image (1).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces_ZbKaBGYDYr0igtCwvs4p_uploads_3PZfjaeQ2LzdXrgjica0_image (1).webp" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -78,19 +78,19 @@ It will show this table
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/Screenshot 2023-10-03 132433.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 132433.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/Screenshot 2023-10-03 132531.png" alt="" width="201"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 132531.png" alt="" width="201"><figcaption></figcaption></figure>
 
 </div>
 
 7. After finished go to the game \[ custom settings panel shift]- \[refresh] - select \[all] - press select to let it start
 
-<figure><img src=".gitbook/assets/Screenshot 2023-10-03 133628.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 133628.png" alt=""><figcaption></figcaption></figure>
 
 Or watch the video here :
 
