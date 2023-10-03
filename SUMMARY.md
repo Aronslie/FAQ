@@ -17,8 +17,9 @@
 
 ***
 
-* [📖 Instruction](instruction.md)
-* [Page 2](page-2.md)
+* [📖 INSTRUCTION](instruction.md)
+* [🕹 FUNCTIONS](functions.md)
+* [🔍 QUESTIONS](questions.md)
 
 ## Unicore
 

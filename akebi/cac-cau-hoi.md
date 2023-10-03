@@ -38,7 +38,15 @@ Nếu các bạn tải link này : [http://akebi-private.com/uploads/AkebiPrivat
 \+ các bạn có thể sẽ không tải được trước tiên các bạn hãy thử dùng VPN ( sẽ có vài quốc gia nó sẽ không hỗ trợ tải ) hoặc đổi sang dùng mega
 
 Link mega : [https://mega.nz/file/tb0lCSKL#9pvRkl4hWRUvaUb-jk1vp1tIyQfu1dqLteH3KMYlKm0](https://mega.nz/file/tb0lCSKL#9pvRkl4hWRUvaUb-jk1vp1tIyQfu1dqLteH3KMYlKm0)\
-\+ Nếu các bạn dính lỗi yêu cầu mật khẩu hãy đổi trình duyệt và tài thử&#x20;
+\+ Nếu các bạn dính lỗi yêu cầu mật khẩu hãy đổi trình duyệt và tải lại
+
+{% hint style="danger" %}
+Đối với những trường hợp đã thử các cách trên mà vẫn không được thì hãy cài lại window
+{% endhint %}
+
+Link tải WIn 10 iso : Đây
+
+Link tải WIn 11 iso : Đây
 
 {% hint style="info" %}
 Link tải Đối với những người có vấn đề khởi chạy là gì ?
