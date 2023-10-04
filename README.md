@@ -19,7 +19,7 @@ layout:
 
 <details>
 
-<summary><code>ENGLISH UNICORE</code></summary>
+<summary><a href="broken-reference"><code>ENGLISH UNICORE</code></a></summary>
 
 Genshin Impact
 
