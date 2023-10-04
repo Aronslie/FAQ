@@ -15,7 +15,7 @@ See role (Reseller) ✅
 
 **Buy For paypal** [**Shop**](https://arons.sell.app/?browse=products\&cursor=) **,** [**Wise**](https://wise.com/invite/dic/tranthaib2) **( It supports many countries ) or DM** [**Arons** ](https://discord.com/users/727853330696634397)
 
-**Price Unicore : Genshin**
+**Price Unicore :**
 
 {% tabs %}
 {% tab title="Genshin" %}
