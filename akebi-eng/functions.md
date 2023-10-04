@@ -32,7 +32,7 @@
 
 </details>
 
-<figure><img src="../.gitbook/assets/spaces_ZbKaBGYDYr0igtCwvs4p_uploads_MRIXhLQaEx3cDoim8rob_1 (1).webp" alt=""><figcaption><p>Example</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
