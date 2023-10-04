@@ -17,7 +17,6 @@ Here I write instructions and summarize some uses and uses for Tool game. Please
 * Server Discord : [Aronslie](https://discord.gg/78ApGEAKFU)
 * Website : [Arons.sellapp](https://arons.sell.app/?browse=products\&cursor=)
 * Telegram : [Arons](https://t.me/aronslie)
-* [Server AKEBI](https://discord.gg/akebi)
-
-
+* Discord : [UNICORE](https://discord.gg/zGKJH6EpwZ)
+* Website Office : [Unicloud](https://unicore.cloud/forum/)
 

@@ -10,7 +10,8 @@ Cảnh báo : Chỉ hỗ trợ win 10 trở lên các bản win 10 trở xuống
 Hướng Dẫn Chạy AKEBI&#x20;
 {% endhint %}
 
-**Link Tải** : [Click](https://discord.com/channels/1104940962804936856/1158038172295508081/1158038996136509550) \
+**Link Tải** : [Click](https://discord.com/channels/1104940962804936856/1158038172295508081/1158038996136509550)  \
+Tải Link mega\
 Sau khi tải File về thư mục làm các bước sau&#x20;
 
 **I . HƯỚNG DẪN CHẠY**

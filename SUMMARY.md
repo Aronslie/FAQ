@@ -20,4 +20,8 @@
 
 ## Unicore
 
-* [Page 1](unicore/page-1.md)
+* [👤 INFO](unicore/info.md)
+* [🔑 HOW TO BUY ?](unicore/how-to-buy.md)
+* [📚 INSTRUCTION](unicore/instruction.md)
+* [🕹 FUNCTIONS](unicore/functions.md)
+* [🔍 QUESTIONS](unicore/questions.md)
