@@ -15,54 +15,36 @@ See role (Reseller) ✅
 
 **Buy For paypal** [**Shop**](https://arons.sell.app/?browse=products\&cursor=) **,** [**Wise**](https://wise.com/invite/dic/tranthaib2) **( It supports many countries ) or DM** [**Arons** ](https://discord.com/users/727853330696634397)
 
-**Price List :**
+**Price Unicore : Genshin**
 
 {% tabs %}
-{% tab title="Wise" %}
+{% tab title="Genshin" %}
 ```
-> Key 01D  |   2$ Wise » In stock 
-> Key 07D  | 7.2$ Wise » In stock 
-> Key 30D  |20.2$ Wise » In stock
-```
-{% endtab %}
-
-{% tab title="EUR" %}
-```
-> Key 01D  | 1.8$ EUR » In stock
-> Key 07D  |6.70$ EUR » In stock
-> Key 30D  |19.2$ EUR » In stock
+> Key 01D  | 1.8 USD » In stock 
+> Key 07D  |   7 USD » In stock 
+> Key 30D  |  20 USD » In stock 
+> Key 90D  |  45 USD » In stock 
+> Key LT   | 300 USD » In stock 
 ```
 {% endtab %}
 
-{% tab title="GBP" %}
+{% tab title="HonkaiStarRail" %}
 ```
-> Key 01D  | 1.5$ GBP » In stock
-> Key 07D  |   6$ GBP » In stock 
-> Key 30D  |16.5$ GBP » In stock
-```
-{% endtab %}
-
-{% tab title="AED" %}
-```
-> Key 01D  | 6.7$ AED » In stock 
-> Key 07D  |25.8$ AED » In stock
-> Key 30D  |  75$ AED » In stock
+> Key 01D  | 1.8 USD » In stock
+> Key 07D  |   6 USD » In stock
+> Key 30D  |  11 USD » In stock
+> Key 90D  |  25 USD » In stock
+> Key LT   | 100 USD » In stock
 ```
 {% endtab %}
 
-{% tab title="SGD" %}
+{% tab title="Fivem/rage" %}
 ```
-> Key 01D  |  2.5$ SGD » In stock 
-> Key 07D  |  9.7$ SGD » In stock
-> Key 30D  | 27.5$ SGD » In stock
-```
-{% endtab %}
-
-{% tab title="AUD" %}
-```
-> Key 01D  |   3$ AUD » In stock 
-> Key 07D  |11.2$ AUD » In stock
-> Key 30D  |  32$ AUD » In stock
+> Key 01D  | 1.8 USD » In stock
+> Key 07D  |   6 USD » In stock
+> Key 30D  |  11 USD » In stock
+> Key 90D  |  30 USD » In stock
+> Key LT   | 120 USD » In stock
 ```
 {% endtab %}
 {% endtabs %}
