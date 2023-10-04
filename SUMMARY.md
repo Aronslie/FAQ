@@ -2,6 +2,14 @@
 
 * [📚 INSTRUCTION / GUIDE](README.md)
 
+## Unicore
+
+* [👤 INFO](unicore/info.md)
+* [🔑 HOW TO BUY ?](unicore/how-to-buy.md)
+* [📚 INSTRUCTION](unicore/instruction.md)
+* [🕹 FUNCTIONS](unicore/functions.md)
+* [🔍 QUESTIONS](unicore/questions.md)
+
 ## AKEBI
 
 * [👤 Giới Thiệu](akebi/gioi-thieu.md)
@@ -17,11 +25,3 @@
 * [📖 INSTRUCTION](akebi-eng/instruction.md)
 * [🕹 FUNCTIONS](akebi-eng/functions.md)
 * [🔍 QUESTIONS](akebi-eng/questions.md)
-
-## Unicore
-
-* [👤 INFO](unicore/info.md)
-* [🔑 HOW TO BUY ?](unicore/how-to-buy.md)
-* [📚 INSTRUCTION](unicore/instruction.md)
-* [🕹 FUNCTIONS](unicore/functions.md)
-* [🔍 QUESTIONS](unicore/questions.md)
