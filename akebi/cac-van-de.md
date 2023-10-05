@@ -6,7 +6,7 @@
 Tại sao Menu của mình lại nhỏ vậy làm cách nào để nó to như video ?
 {% endhint %}
 
-Các bạn mở menu&#x20;
+Các bạn mở menu nhìn vào góc phải menu sẽ có cái này ![](<../.gitbook/assets/image (23).png>)
 
 {% hint style="info" %}
 Làm cách nào để mình xem được miêu tả tính năng đó là gì , có tác dụng gì ?&#x20;
