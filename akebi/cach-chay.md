@@ -11,7 +11,9 @@ Hướng Dẫn Chạy AKEBI&#x20;
 {% endhint %}
 
 **Link Tải** : [Click](https://discord.com/channels/1104940962804936856/1158038172295508081/1158038996136509550)  \
-Tải Link mega\
+Tải Link mega
+
+Tải File Setting sẵn tại đây : [Click](https://drive.google.com/drive/folders/16sKte70I\_fK8W09K4BJnS6JqzPzy\_KuR?usp=sharing)\
 Sau khi tải File về thư mục làm các bước sau&#x20;
 
 **I . HƯỚNG DẪN CHẠY**
@@ -19,7 +21,7 @@ Sau khi tải File về thư mục làm các bước sau&#x20;
 1. Winrar Extract to <mark style="color:orange;">\[AkebiPrivate]</mark> và chạy <mark style="color:orange;">\[Akebilaucher.exe</mark>] , chọn đường dẫn \[GenshinImpact.exe] .
 2. Chờ 5-15s để game tự động mở. Khi đến màn hình đăng nhập, Đừng ấn gì hết.
 3. Chờ 5-10s, sau đó bảng CMD sẽ hiện lên, Nhập key. \[Key sẽ như này : <mark style="color:orange;">AKEBI-xDay-FULL-XXXX-XXXX...</mark>] .
-4. Nếu bạn thấy CMD hiện thị chữ console 5s hãy chờ khoản 5s bảng CMD sẽ tắt vào game và ấn F1 mở Menu dấu \` cho file setiing sẵn .&#x20;
+4. Nếu bạn thấy CMD hiện thị chữ console 5s hãy chờ khoản 5s bảng CMD sẽ tắt vào game và ấn F1 mở Menu dấu \` cho file setiing sẵn . &#x20;
 
 **II . THÔNG TIN**&#x20;
 

@@ -1,5 +1,19 @@
 # 🔍 Các Vấn Đề
 
+
+
+{% hint style="info" %}
+Tại sao Menu của mình lại nhỏ vậy làm cách nào để nó to như video ?
+{% endhint %}
+
+Các bạn mở menu&#x20;
+
+{% hint style="info" %}
+Làm cách nào để mình xem được miêu tả tính năng đó là gì , có tác dụng gì ?&#x20;
+{% endhint %}
+
+Các bạn sử dụng chuột vào biểu tượng này ![](<../.gitbook/assets/image (22).png>) Nó sẽ miêu tả tính năng đó cho bạn .
+
 {% hint style="warning" %}
 Đối với những bạn bị game bị 2 ổ !
 {% endhint %}
