@@ -1,4 +1,14 @@
-# 🔍 Các Câu Hỏi
+# 🔍 Các Vấn Đề
+
+{% hint style="warning" %}
+Đối với những bạn bị game bị 2 ổ !
+{% endhint %}
+
+Desktop Click chuột phải vào Genshin chọn <mark style="color:orange;">\[Open file Location]</mark> - Cuộn chuột lên chọn thư mục <mark style="color:orange;">\[Genshin Impact game]</mark> sẽ hiện cho bạn như này . &#x20;
+
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+Sau đó các bạn coppy đường dẫn này ![](<../.gitbook/assets/image (21).png>) vào phần chọn đường dẫn của Akebilaucher pass vào nó sẽ hiện tới thư mục để bạn chọn genshinImpact.exe
 
 {% hint style="info" %}
 **Tại sao mình không hiện menu và bị crash khi vừa vào ?**

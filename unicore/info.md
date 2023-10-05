@@ -14,9 +14,9 @@ Here I write instructions and summarize some uses and uses for Tool game. Please
 
 \- Personal Contact Information :
 
-* Server Discord : [Aronslie](https://discord.gg/78ApGEAKFU)
-* Website : [Arons.sellapp](https://arons.sell.app/?browse=products\&cursor=)
-* Telegram : [Arons](https://t.me/aronslie)
+* Server Discord : [**Aronslie**](https://discord.gg/78ApGEAKFU)
+* Website : [**Arons.sellapp**](https://arons.sell.app/?browse=products\&cursor=)
+* Telegram : [**Arons**](https://t.me/aronslie)
 * Discord : [**Arons** ](https://discord.com/users/727853330696634397)
-* Website Office : [Unicloud](https://unicore.cloud/forum/)
+* Website Office : [**Unicloud**](https://unicore.cloud/forum/)
 

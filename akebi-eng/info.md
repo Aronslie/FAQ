@@ -14,11 +14,11 @@ Here I write instructions and summarize some uses and uses for Tool game. Please
 
 \- Personal Contact Information :
 
-* Server Discord : [Aronslie](https://discord.gg/78ApGEAKFU)
+* Server Discord : [**Aronslie**](https://discord.gg/78ApGEAKFU)
 * Discord : [**Arons** ](https://discord.com/users/727853330696634397)
-* Website : [Arons.sellapp](https://arons.sell.app/?browse=products\&cursor=)
-* Telegram : [Arons](https://t.me/aronslie)
-* [Server AKEBI](https://discord.gg/akebi)
+* Website : [**Arons.sellapp**](https://arons.sell.app/?browse=products\&cursor=)
+* Telegram : [**Arons**](https://t.me/aronslie)
+* [**Server AKEBI**](https://discord.gg/akebi)
 
 
 
