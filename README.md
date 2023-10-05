@@ -1,5 +1,11 @@
 ---
+cover: >-
+  .gitbook/assets/astronaut_neon_planet_4k_live_wallpaper_by_livewallpaperspc_dg3rcdd-fullview.jpg
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: hero
   title:
     visible: true
   description:
@@ -13,35 +19,4 @@ layout:
 ---
 
 # 📚 INSTRUCTION / GUIDE
-
-[**`ENGLISH AKEBI`**](broken-reference)\
-[**`VN AKEBI`**](broken-reference)
-
-<details>
-
-<summary><a href="broken-reference"><code>ENGLISH UNICORE</code></a></summary>
-
-Genshin Impact
-
-Honkai StarRail
-
-Fivem/rage
-
-</details>
-
-<details>
-
-<summary><code>VN UNICORE</code></summary>
-
-Genshin Impact
-
-Honkai StarRail
-
-Fivem/rage
-
-</details>
-
-
-
-
 
