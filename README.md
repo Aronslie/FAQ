@@ -20,3 +20,6 @@ layout:
 
 # 📚 INSTRUCTION / GUIDE
 
+Tôi xin nhắc rằng tất cả vấn đề của các bạn tôi đã để ở ghi hết trong đây , NẾU THẬT SỰ CÓ VẤN ĐỀ THÌ MỚI INB CHO TÔI&#x20;
+
+I would like to remind you that I have written all of your problems here. IF THERE IS A PROBLEM, THEN DM ME.
