@@ -1,6 +1,42 @@
 # 🔍 QUESTIONS
 
 {% hint style="info" %}
+How do I turn on the interactive map?
+{% endhint %}
+
+Open the genshin map - Click on the left corner of the map and a table will appear. Drag it out like a menu ![](<../.gitbook/assets/image (3).png>)
+
+{% hint style="info" %}
+For those of you who don't see the information panel but have the words Darg Fromm Here?
+{% endhint %}
+
+![](<../.gitbook/assets/image (1).png>)Then go to the Teleport section and click on the eye icon to appear![](<../.gitbook/assets/image (1) (1).png>)
+
+{% hint style="info" %}
+Why is my Menu so small? How can I make it as big as the video?
+{% endhint %}
+
+When you open the menu, look at the right corner of the menu and you will see this![](<../.gitbook/assets/image (23).png>)You just need to pull it out.
+
+{% hint style="info" %}
+How can I see the description of that feature and what effect it has?
+{% endhint %}
+
+Please use your mouse to click on this icon ![](<../.gitbook/assets/image (22).png>)It will describe that feature for you.
+
+{% hint style="warning" %}
+For those of you whose game has 2 drives!
+{% endhint %}
+
+Desktop Right click on Genshin and select <mark style="color:orange;">\[Open file Location]</mark> - Scroll up and select the folder <mark style="color:orange;">\[Genshin Impact game]</mark> which will appear to you like this.
+
+![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (21).png>)
+
+Then you copy this path into Akebilaucher's path selection section and it will show a folder for you to select genshinImpact.exe
+
+
+
+{% hint style="info" %}
 Why didn't I show the menu and crashed when I came in game ?
 {% endhint %}
 

@@ -9,7 +9,9 @@ Guide to running AKEBI
 {% endhint %}
 
 **Link Download** : [Click](https://discord.com/channels/1104940962804936856/1158038172295508081/1158038996136509550) \
-Download Link mega \
+Download Link mega&#x20;
+
+Download the available Setting File here : [Click](https://drive.google.com/drive/folders/16sKte70I\_fK8W09K4BJnS6JqzPzy\_KuR?usp=sharing)\
 After downloading the File to the folder do the following steps
 
 **I . RUNNING INSTRUCTIONS**

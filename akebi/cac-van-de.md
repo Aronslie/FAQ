@@ -1,16 +1,16 @@
 # 🔍 Các Vấn Đề
 
 {% hint style="info" %}
-Làm cách nào để bật bản đồ tương tác lên ?
+Làm cách nào để bật Bản đồ tương tác ?
 {% endhint %}
 
 Mở map genshin lên - Góc trái map sẽ ![](<../.gitbook/assets/image (3).png>) ấn vào nó sẽ hiện ra bảng , kéo nó ra như kéo menu
 
 {% hint style="info" %}
-Đối với mấy bạn bị không hiện bảng thông tin mà có dòng chử Darg Fromm Here ?
+Đối với mấy bạn bị không hiện bảng thông tin mà có dòng chử Darg From Here ?
 {% endhint %}
 
-![](../.gitbook/assets/image.png)  thì vào mục Dịch Chuyển ấn vào biểu tưởng con mắt để hiện lên ![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)  thì vào mục Dịch Chuyển ấn vào biểu tưởng con mắt để hiện lên ![](<../.gitbook/assets/image (1) (1).png>)
 
 {% hint style="info" %}
 Tại sao Menu của mình lại nhỏ vậy làm cách nào để nó to như video ?
