@@ -1,26 +1,18 @@
 # 🔍 Các Vấn Đề
 
-{% hint style="info" %}
-Làm cách nào để bật Bản đồ tương tác ?
-{% endhint %}
+### <mark style="color:blue;">Làm cách nào để bật Bản đồ tương tác ?</mark>
 
 Mở map genshin lên - Góc trái map sẽ ![](<../.gitbook/assets/image (3).png>) ấn vào nó sẽ hiện ra bảng , kéo nó ra như kéo menu
 
-{% hint style="info" %}
-Đối với mấy bạn bị không hiện bảng thông tin mà có dòng chử Darg From Here ?
-{% endhint %}
+### <mark style="color:blue;">Đối với mấy bạn bị không hiện bảng thông tin mà có dòng chử Darg From Here ?</mark>
 
 ![](<../.gitbook/assets/image (1).png>)  thì vào mục Dịch Chuyển ấn vào biểu tưởng con mắt để hiện lên ![](<../.gitbook/assets/image (1) (1).png>)
 
-{% hint style="info" %}
-Tại sao Menu của mình lại nhỏ vậy làm cách nào để nó to như video ?
-{% endhint %}
+### <mark style="color:blue;">Tại sao Menu của mình lại nhỏ vậy làm cách nào để nó to như video ?</mark>
 
 Các bạn mở menu nhìn vào góc phải menu sẽ có cái này ![](<../.gitbook/assets/image (23).png>) các bạn chỉ cần kéo nó ra .
 
-{% hint style="info" %}
-Làm cách nào để mình xem được miêu tả tính năng đó là gì , có tác dụng gì ?&#x20;
-{% endhint %}
+### <mark style="color:blue;">Làm cách nào để mình xem được miêu tả tính năng đó là gì , có tác dụng gì ?</mark>&#x20;
 
 Các bạn sử dụng chuột vào biểu tượng này ![](<../.gitbook/assets/image (22).png>) Nó sẽ miêu tả tính năng đó cho bạn .
 

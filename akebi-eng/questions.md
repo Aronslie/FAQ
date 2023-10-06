@@ -1,14 +1,10 @@
 # 🔍 QUESTIONS
 
-{% hint style="info" %}
-How do I turn on the interactive map?
-{% endhint %}
+### <mark style="color:blue;">How do I turn on the interactive map?</mark>
 
 Open the genshin map - Click on the left corner of the map and a table will appear. Drag it out like a menu ![](<../.gitbook/assets/image (3).png>)
 
-{% hint style="info" %}
-For those of you who don't see the information panel but have the words Darg Fromm Here?
-{% endhint %}
+### <mark style="color:blue;">For those of you who don't see the information panel but have the words Darg Fromm Here?</mark>
 
 ![](<../.gitbook/assets/image (1).png>)Then go to the Teleport section and click on the eye icon to appear![](<../.gitbook/assets/image (1) (1).png>)
 
@@ -93,9 +89,7 @@ Go in <mark style="color:orange;">\[Windows Security]</mark> - <mark style="colo
 
 * Selects Exclusions <mark style="color:orange;">\[ add or remove Exclusions]</mark> Chọn vào phần Folder , Select the folder section , select the folder akebi (this selection will ignore almost the firewall to let the file run and do not need to turn off anything more) as I understand the fins :)))
 
-{% hint style="info" %}
-**Làm cách nào để setup custom teleports ?**
-{% endhint %}
+### <mark style="color:blue;">**How to setup custom teleports ?**</mark>
 
 1. Go to \[custom TP] on the left&#x20;
 2. Select section \[custom shift]&#x20;
