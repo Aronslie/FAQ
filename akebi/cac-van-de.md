@@ -134,3 +134,6 @@ Hoặc Xem video tại đây :
 Đây là bản cũ nhưng sẽ làm giống như vậy
 {% endembed %}
 
+### Nơi lấy file TP ở đâu ?
+
+Ở đây : [Click](https://drive.google.com/drive/folders/1AtpBcIS-TqQzT7BJ54bo29SWbqtlstVt?usp=sharing)
