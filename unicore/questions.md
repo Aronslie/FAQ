@@ -1,6 +1,6 @@
 # 🔍 QUESTIONS
 
-<mark style="color:blue;">**Genshin Impact bugs / issues manual**</mark>
+## <mark style="color:blue;">**Genshin Impact bugs / issues manual**</mark>
 
 No injection at all / no sound effect on "<mark style="color:blue;">F2</mark>" click.\
 **1.** Open Windows Core Isolation settings  <mark style="color:blue;">(can be found in Windows Securite folder)</mark>\
@@ -30,8 +30,9 @@ FACEIT / ESEA / CEVO Clients (CS:GO League Anti-Che..s)
 Valorants Anti Che..:
 
 Vanguard (Valorant Anti-Che.. | [https://support-valorant.riotgames.com/hc/en-us/articles/360044648213-Uninstalling-and-Disabling-Riot-Vanguard](https://support-valorant.riotgames.com/hc/en-us/articles/360044648213-Uninstalling-and-Disabling-Riot-Vanguard))\
-\
-Blue Screen error.
+
+
+### <mark style="color:blue;">**Blue Screen error.**</mark>
 
 ![](<../.gitbook/assets/image (14).png>)
 
@@ -40,11 +41,10 @@ Restart your PC and try again in case if the "Blue Screen" error happen 5 times 
 **1.** Disable / remove antivirus from your PC (any protection services)\
 **2.** Go to the C:/windows/minidump folder and send 3 latest minidump files from this folder to the technical administrator.\
 **3.** Windows reinstall.\
-\
-**Unable to install exploit driver.**\
-\
-![](<../.gitbook/assets/image (15).png>)\
-\
+
+
+### <mark style="color:blue;">**Unable to install exploit driver.**</mark>  ![](<../.gitbook/assets/image (15).png>)
+
 The “<mark style="color:blue;">Unable to install exploit driver</mark>” error usually occurs due to the presence of an anti-cheat/anti-virus on the PC. Most of the time it happen due to Riot's Vanguard anticheat (league of legends / valorant). Please follow next steps:\
 **1.** Remove all external protection software from your PC.\
 **2.** DISABLE / FULLY REMOVE: Ricochet anticheat / Valorant anticheat in case if you have it.\
@@ -62,8 +62,7 @@ Internal server error\
 ![](<../.gitbook/assets/image (18).png>)\
 It means that web server is currently offline and you need to wait till it back up.
 
-<mark style="color:blue;">**HONKAI STARRAIL**</mark>\
-\- common ERRORs&#x20;
+## <mark style="color:blue;">**HONKAI STARRAIL**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Common Error</mark>&#x20;
 
 * error 2010 before battle > turn off speed up dialog \
   \-Speed ​​battle screen freezes&#x20;
@@ -71,9 +70,17 @@ It means that web server is currently offline and you need to wait till it back 
 
 &#x20;![](<../.gitbook/assets/image (19).png>)
 
-\
-\
+ERROR 403 :\
+![](../.gitbook/assets/image.png)
+---------------------------------
 
+DM me and I will change the new key for you or if you want to change the HWID yourself then follow these steps
+
+1. Go Unicore server select support-ticket
+2. Click HWID Reset
+3. The room will be created, your job is to send the key there according to the form \[Key] HSR GI,... \[Buy form]
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 

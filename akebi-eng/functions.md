@@ -1,38 +1,35 @@
+---
+description: >-
+  Things that should be turned on and should be used I will ✅ do the opposite ❌
+  This is just what I think
+---
+
 # 🕹 FUNCTIONS
+
+<mark style="color:red;">**Advice for you is to keep the delay between 20m and 30m. Don't abuse the delay function.**</mark>
 
 <details>
 
 <summary><strong>PLAYERS</strong></summary>
 
-* No-clip\
-  \+\
-  \+\
-  \+\
-  \+
-* God Mode\
-  \+ Enble\
-  \+ Conditinal
-* Infinite Stamina\
-  \+\
-  \+
-* Cooldown Effects\
-  \+\
-  \+\
-  \+\
-  \+
-* Attack Effects\
-  \+\
-  \+\
-  \+\
-  \+\
-  \+\
-  \+\
-  \+
-* Fail-Control
+* God Mod ✅
+* Infinite Stamina ✅
+* Noclip✅\
+  No animation\
+  Run on water\
+  DragbackBypass\
+  Camera-reactive movement
+* Attacks Effects ✅\
+  Muti hit\
+  Custom Element\
+  Critical Hit
+* Cooldown Effects✅\
+  \
+
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 

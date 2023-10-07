@@ -2,67 +2,49 @@
 
 ### <mark style="color:blue;">How do I turn on the interactive map?</mark>
 
-Open the genshin map - Click on the left corner of the map and a table will appear. Drag it out like a menu ![](<../.gitbook/assets/image (3).png>)
+Open the genshin map - Click on the left corner of the map and a table will appear. Drag it out like a menu ![](<../.gitbook/assets/image (3) (1).png>)
 
 ### <mark style="color:blue;">For those of you who don't see the information panel but have the words Darg Fromm Here?</mark>
 
-![](<../.gitbook/assets/image (1).png>)Then go to the Teleport section and click on the eye icon to appear![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)Then go to the Teleport section and click on the eye icon to appear![](<../.gitbook/assets/image (1) (1) (1).png>)
 
-{% hint style="info" %}
-Why is my Menu so small? How can I make it as big as the video?
-{% endhint %}
+### <mark style="color:blue;">Why is my Menu so small? How can I make it as big as the video?</mark>
 
 When you open the menu, look at the right corner of the menu and you will see this![](<../.gitbook/assets/image (23).png>)You just need to pull it out.
 
-{% hint style="info" %}
-How can I see the description of that feature and what effect it has?
-{% endhint %}
+### <mark style="color:blue;">How can I see the description of that feature and what effect it has?</mark>
 
 Please use your mouse to click on this icon ![](<../.gitbook/assets/image (22).png>)It will describe that feature for you.
 
-{% hint style="warning" %}
-For those of you whose game has 2 drives!
-{% endhint %}
+### <mark style="color:blue;">For those of you whose game has 2 drives!</mark>
 
 Desktop Right click on Genshin and select <mark style="color:orange;">\[Open file Location]</mark> - Scroll up and select the folder <mark style="color:orange;">\[Genshin Impact game]</mark> which will appear to you like this.
 
-![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (21).png>)
 
 Then you copy this path into Akebilaucher's path selection section and it will show a folder for you to select genshinImpact.exe
 
-
-
-{% hint style="info" %}
-Why didn't I show the menu and crashed when I came in game ?
-{% endhint %}
+### <mark style="color:blue;">Why didn't I show the menu and crashed when I came in game ?</mark>
 
 * If you do not show menu please check if you are enabling overplay software showing parameters such as MSIburner, if yes please turn it off . press F1 to open the menu or mark ' according to your file setting. For crashing, go to the cfg File.json (file setting ) check if the File is entered incorrectly key , or if the expired key will not have a place to enter the key again (in this case, reload the config file )
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-03 135107.png" alt=""><figcaption><p>Ảnh minh hoạ</p></figcaption></figure>
 
-{% hint style="info" %}
-Why am I deleted laucher when I switched on ?
-{% endhint %}
+### <mark style="color:blue;">Why am I deleted laucher when I switched on ?</mark>
 
 \- You go <mark style="color:orange;">\[Windows Security]</mark> - <mark style="color:orange;">\[Viruss & threat protection]</mark> sections <mark style="color:orange;">\[Viruss & threat protection settings]</mark> select <mark style="color:orange;">\[Manage settings]</mark> Turn off all .\
 **-** Go <mark style="color:orange;">\[App & Bowser control]</mark> - Select <mark style="color:orange;">\[Reputation based protection setting</mark>] - Turn off all
 
-{% hint style="info" %}
-How do I enable kill aura ?
-{% endhint %}
+### <mark style="color:blue;">How do I enable kill aura ?</mark>
 
 \- Go to \[Setting] enable dangerous function , after enabling it will show up at Item \[World]
 
-{% hint style="danger" %}
-ERROR ManualMap: Failed to initialize static TLS for image. Error: 0
-{% endhint %}
+### <mark style="color:blue;">ERROR ManualMap: Failed to initialize static TLS for image. Error: 0</mark>
 
 Download these 2 files : [Driver](https://drive.google.com/drive/folders/1LkP66KHFBcu3IVi6AxCdj7JU5Vrx4H7n?usp=sharing)\
 After downloading please coppy 2 this folder into akebi folder
 
-{% hint style="info" %}
-Why can't I download akebi ?
-{% endhint %}
+### <mark style="color:blue;">Why can't I download akebi ?</mark>
 
 If you download this link : [http://akebi-private.com/uploads/AkebiPrivate.zip](http://akebi-private.com/uploads/AkebiPrivate.zip)
 
@@ -72,17 +54,13 @@ Link mega : [https://mega.nz/file/tb0lCSKL#9pvRkl4hWRUvaUb-jk1vp1tIyQfu1dqLteH3K
 
 If you stick the password request please change the browser and reload
 
-{% hint style="danger" %}
-For those who have tried the above ways and still can not, please reinstall the window
-{% endhint %}
+### <mark style="color:red;">For those who have tried the above ways and still can not, please reinstall the window</mark>
 
 Download link WIn 10 iso: [here](https://support.microsoft.com/en-us/windows/create-an-iso-file-for-windows-10-38547366-1dcb-7afd-1726-9eb222d72705)&#x20;
 
 Download link WIn 11 iso: here
 
-{% hint style="info" %}
-What is a download Link for people with launch problems ?
-{% endhint %}
+### <mark style="color:blue;">What is a download Link for people with launch problems ?</mark>
 
 For those who do not run files as usual If you want to use this File, do the following steps\
 Go in <mark style="color:orange;">\[Windows Security]</mark> - <mark style="color:orange;">\[Viruss & threat protection]</mark> sections <mark style="color:orange;">\[Viruss & threat protection settings]</mark> select <mark style="color:orange;">\[Manage settings</mark>] Turn off all .
