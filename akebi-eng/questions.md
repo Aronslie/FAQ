@@ -76,7 +76,7 @@ If you stick the password request please change the browser and reload
 For those who have tried the above ways and still can not, please reinstall the window
 {% endhint %}
 
-Download link WIn 10 iso: here&#x20;
+Download link WIn 10 iso: [here](https://support.microsoft.com/en-us/windows/create-an-iso-file-for-windows-10-38547366-1dcb-7afd-1726-9eb222d72705)&#x20;
 
 Download link WIn 11 iso: here
 

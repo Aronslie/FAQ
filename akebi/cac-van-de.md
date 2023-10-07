@@ -70,7 +70,7 @@ Link mega : [https://mega.nz/file/tb0lCSKL#9pvRkl4hWRUvaUb-jk1vp1tIyQfu1dqLteH3K
 Đối với những trường hợp đã thử các cách trên mà vẫn không được thì hãy cài lại window
 {% endhint %}
 
-Link tải WIn 10 iso : Đây
+Link tải WIn 10 iso : [Đây](https://support.microsoft.com/en-us/windows/create-an-iso-file-for-windows-10-38547366-1dcb-7afd-1726-9eb222d72705)
 
 Link tải WIn 11 iso : Đây
 
