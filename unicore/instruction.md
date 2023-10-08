@@ -39,15 +39,8 @@ For GTA <mark style="color:blue;">( The tool does not support reshaders )</mark>
 
 <mark style="color:blue;">**Unicore and Unistar**</mark>&#x20;
 
-F2 reload menu&#x20;
-
+F2 reload menu \
 Insert Turn on/off menu&#x20;
-
-<mark style="color:blue;">**Unitheft**</mark>&#x20;
-
-F2 reload menu&#x20;
-
-F6 Turn on/off menu
 
 OR YOU CAN WATCH VIDEO HERE :&#x20;
 
