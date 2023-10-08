@@ -30,6 +30,13 @@ After downloading the File to the folder do the following steps
 
 For GTA <mark style="color:blue;">( The tool does not support reshaders )</mark>&#x20;
 
+**Fivem/rage** \
+•Open loader as administrator, before opening the game. \
+•Enter your key in loader. •Open GTA V (FiveM or RageMP, depends on key) \
+•Press ‘F2’ on keyboard when you will see your character (you will hear double sound) \
+•Press F6 to open / close the menu \
+•Enjoy!
+
 <mark style="color:blue;">**Unicore and Unistar**</mark>&#x20;
 
 F2 reload menu&#x20;
