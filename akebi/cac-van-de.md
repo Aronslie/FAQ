@@ -66,5 +66,6 @@ Vào \[Windows Security] - \[Viruss & threat protection] phần \[Viruss & threa
 Lỗi Source Code , tìm không thấy File ?
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-
+Lỗi này thì các dùng file Setting nhập key của mình vào rồi dán đè kên File config cũ

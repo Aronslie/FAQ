@@ -22,7 +22,7 @@ layout:
 
 <mark style="color:purple;">**Được Viết Bởi Arons | Written By Arons**</mark>
 
-Tôi xin nhắc rằng tất cả vấn đề của các bạn tôi đã ghi hết trong đây , NẾU THẬT SỰ CÓ VẤN ĐỀ THÌ MỚI INB CHO TÔI , Các vấn đề của bạn cần tìm ở [Đây](akebi/cac-loi-thuong-gap.md) ,
+Tôi xin nhắc rằng tất cả vấn đề của các bạn tôi đã ghi hết trong đây , NẾU THẬT SỰ CÓ VẤN ĐỀ THÌ MỚI INB CHO TÔI , Các vấn đề của bạn cần tìm ở [Đây](akebi/cac-van-de.md) ,
 
 
 

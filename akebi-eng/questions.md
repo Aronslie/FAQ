@@ -1,21 +1,5 @@
 # 🔍 QUESTIONS
 
-### <mark style="color:blue;">How do I turn on the interactive map?</mark>
-
-Open the genshin map - Click on the left corner of the map and a table will appear. Drag it out like a menu ![](<../.gitbook/assets/image (3) (1) (1).png>)
-
-### <mark style="color:blue;">For those of you who don't see the information panel but have the words Darg Fromm Here?</mark>
-
-![](<../.gitbook/assets/image (1) (1) (1).png>)Then go to the Teleport section and click on the eye icon to appear![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
-
-### <mark style="color:blue;">Why is my Menu so small? How can I make it as big as the video?</mark>
-
-When you open the menu, look at the right corner of the menu and you will see this![](<../.gitbook/assets/image (23).png>)You just need to pull it out.
-
-### <mark style="color:blue;">How can I see the description of that feature and what effect it has?</mark>
-
-Please use your mouse to click on this icon ![](<../.gitbook/assets/image (22).png>)It will describe that feature for you.
-
 ### <mark style="color:blue;">For those of you whose game has 2 drives!</mark>
 
 Desktop Right click on Genshin and select <mark style="color:orange;">\[Open file Location]</mark> - Scroll up and select the folder <mark style="color:orange;">\[Genshin Impact game]</mark> which will appear to you like this.
@@ -65,47 +49,10 @@ Download link WIn 11 iso: here
 For those who do not run files as usual If you want to use this File, do the following steps\
 Go in <mark style="color:orange;">\[Windows Security]</mark> - <mark style="color:orange;">\[Viruss & threat protection]</mark> sections <mark style="color:orange;">\[Viruss & threat protection settings]</mark> select <mark style="color:orange;">\[Manage settings</mark>] Turn off all .
 
-* Selects Exclusions <mark style="color:orange;">\[ add or remove Exclusions]</mark> Chọn vào phần Folder , Select the folder section , select the folder akebi (this selection will ignore almost the firewall to let the file run and do not need to turn off anything more) as I understand the fins :)))
+* Selects Exclusions <mark style="color:orange;">\[ add or remove Exclusions]</mark> Select Folder , Select the folder section , select the folder akebi (this selection will ignore almost the firewall to let the file run and do not need to turn off anything more) as I understand the fins :)))
 
-### <mark style="color:blue;">**How to setup custom teleports ?**</mark>
+### Source Code error, File not found?
 
-1. Go to \[custom TP] on the left&#x20;
-2. Select section \[custom shift]&#x20;
-3. Select \[activation]- \[Self-displacement] (time to 5s for Strong PC, 10-20s for weak PC)
-4. Select this icon ![](<../.gitbook/assets/Screenshot 2023-10-03 130639.png>)
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-It will show this table
-
-<figure><img src="../.gitbook/assets/spaces_ZbKaBGYDYr0igtCwvs4p_uploads_3PZfjaeQ2LzdXrgjica0_image (1).webp" alt=""><figcaption></figcaption></figure>
-
-
-
-4. It will show up table \[custom Teleports Settings]- \[select gears]- \[open folder]
-5. It will create for you 1 folder name Teleports your to do is now out folder contains File teleports select you want TP
-6. Coppy the entire File .json (for those who don't see it ) - go to the teleports folder press View-go to the show section and select File name extension
-
-<div align="center">
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 132433.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 132531.png" alt="" width="201"><figcaption></figcaption></figure>
-
-</div>
-
-7. After finished go to the game \[ custom settings panel shift]- \[refresh] - select \[all] - press select to let it start
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 133628.png" alt=""><figcaption></figcaption></figure>
-
-Or watch the video here :
-
-{% embed url="https://youtu.be/ZpgFsj1iYfU?si=Hwe09Npan7qEEObT" %}
-Đây là bản cũ nhưng sẽ làm giống như vậy
-{% endembed %}
-
-### Where can I find the TP file?
-
-Here : [Click](https://drive.google.com/drive/folders/1AtpBcIS-TqQzT7BJ54bo29SWbqtlstVt?usp=sharing)
+For this error, use the Setting file to enter your key and then paste the old config file

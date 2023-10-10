@@ -87,7 +87,7 @@ Tự nói chuyện : ( nếu Lỗi thì hãy tắt  )\
 Tự khiêu Chiến ✅\
 Bật hết , phạm vi như trên hoặc 20-30m
 
-Tự giết quái ( như ảnh dưới bạn sẽ không thấy hãy qua phần câu hỏi [Click](cac-loi-thuong-gap.md) )\
+Tự giết quái ( như ảnh dưới bạn sẽ không thấy hãy qua phần câu hỏi [Click](cac-van-de.md) )\
 \- Giá trị dmg : 300k ✅\
 \- Thần chết hoặc dùng carsh dmg cũng đc&#x20;
 
