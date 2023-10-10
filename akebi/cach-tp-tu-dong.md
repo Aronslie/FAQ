@@ -2,7 +2,7 @@
 
 ## **Làm cách nào để setup custom teleports ?**
 
-1. Vào mục <mark style="color:orange;">\[TP tuỳ chỉnh]</mark> bên trái
+1. Vào mục <mark style="color:orange;">\[TP tuỳ chỉnh]</mark> bên phải
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 
 ## How to set up custom teleports?
 
-1. Go to \[Custom TP] section on the left
+1. Go to \[Custom TP] section on the right
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
