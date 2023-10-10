@@ -12,7 +12,7 @@
 
 Ở đây : [Click](https://drive.google.com/drive/folders/1AtpBcIS-TqQzT7BJ54bo29SWbqtlstVt?usp=sharing)
 
-Người việt nên dùng đồ Việt \~\~ ham hố tiếng anh không viết đừng hỏi&#x20;
+Người việt nên dùng đồ Việt \~\~ ham hố tiếng anh không biết đừng hỏi&#x20;
 
 ### Bật tự đánh quái như thế nào ?
 
@@ -33,7 +33,7 @@ Người việt nên dùng đồ Việt \~\~ ham hố tiếng anh không viết 
 
 ### Tại sao tự giải đố lại không làm được ?
 
-* Mấy thứ cso trong filter thì nó sẽ làm được&#x20;
+* Mấy thứ có trong filter thì nó sẽ làm được&#x20;
 * Còn không có thì hiểu rồi đó
 
 ### Bảng Hiện thị lại không có gì ?
