@@ -2,11 +2,11 @@
 
 ### <mark style="color:blue;">How do I turn on the interactive map?</mark>
 
-Open the genshin map - Click on the left corner of the map and a table will appear. Drag it out like a menu ![](<../.gitbook/assets/image (3) (1).png>)
+Open the genshin map - Click on the left corner of the map and a table will appear. Drag it out like a menu ![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 ### <mark style="color:blue;">For those of you who don't see the information panel but have the words Darg Fromm Here?</mark>
 
-![](<../.gitbook/assets/image (1) (1).png>)Then go to the Teleport section and click on the eye icon to appear![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)Then go to the Teleport section and click on the eye icon to appear![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ### <mark style="color:blue;">Why is my Menu so small? How can I make it as big as the video?</mark>
 
@@ -20,7 +20,7 @@ Please use your mouse to click on this icon ![](<../.gitbook/assets/image (22).p
 
 Desktop Right click on Genshin and select <mark style="color:orange;">\[Open file Location]</mark> - Scroll up and select the folder <mark style="color:orange;">\[Genshin Impact game]</mark> which will appear to you like this.
 
-![](<../.gitbook/assets/image (3).png>)![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (3) (1).png>)![](<../.gitbook/assets/image (21).png>)
 
 Then you copy this path into Akebilaucher's path selection section and it will show a folder for you to select genshinImpact.exe
 

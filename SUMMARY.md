@@ -16,7 +16,9 @@
 * [🔑 Mua Key](akebi/mua-key.md)
 * [🖥 Cách Chạy](akebi/cach-chay.md)
 * [🕹 Chức năng](akebi/chuc-nang.md)
-* [🔍 Các Vấn Đề](akebi/cac-van-de.md)
+* [Cách TP tự động](akebi/cach-tp-tu-dong.md)
+* [Các Câu hỏi ?](akebi/cac-cau-hoi.md)
+* [🔍 Các Lỗi thường gặp](akebi/cac-loi-thuong-gap.md)
 
 ## AKEBI ENG
 

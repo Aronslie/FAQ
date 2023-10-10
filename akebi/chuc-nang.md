@@ -44,7 +44,7 @@ Diều Hướng rơi \
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -87,7 +87,7 @@ Tự nói chuyện : ( nếu Lỗi thì hãy tắt  )\
 Tự khiêu Chiến ✅\
 Bật hết , phạm vi như trên hoặc 20-30m
 
-Tự giết quái ( như ảnh dưới bạn sẽ không thấy hãy qua phần câu hỏi [Click](cac-van-de.md) )\
+Tự giết quái ( như ảnh dưới bạn sẽ không thấy hãy qua phần câu hỏi [Click](cac-loi-thuong-gap.md) )\
 \- Giá trị dmg : 300k ✅\
 \- Thần chết hoặc dùng carsh dmg cũng đc&#x20;
 
@@ -102,9 +102,9 @@ Tự bí cảnh : ✅
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -135,7 +135,7 @@ Dịch Chuyển Nhiệm Vụ gồm các chức năng sau : ✅
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -145,7 +145,7 @@ Dịch Chuyển Nhiệm Vụ gồm các chức năng sau : ✅
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -157,7 +157,7 @@ Dịch Chuyển Nhiệm Vụ gồm các chức năng sau : ✅
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -177,7 +177,7 @@ Dịch Chuyển Nhiệm Vụ gồm các chức năng sau : ✅
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -187,4 +187,4 @@ Dịch Chuyển Nhiệm Vụ gồm các chức năng sau : ✅
 
 </details>
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>

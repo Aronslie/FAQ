@@ -5,7 +5,7 @@
 No injection at all / no sound effect on "<mark style="color:blue;">F2</mark>" click.\
 **1.** Open Windows Core Isolation settings  <mark style="color:blue;">(can be found in Windows Securite folder)</mark>\
 **2.** Turn off the core isolation feature\
-![](<../.gitbook/assets/image (13).png>)\
+![](<../.gitbook/assets/image (13) (1).png>)\
 **3.** Disable all external anticheats on your PC such as <mark style="color:blue;">"Vanguard", "EAC", "Ricochet"</mark>.\
 **4.** Download the following files and install:\
 [https://www.microsoft.com/en-us/download/details.aspx?id=35](https://www.microsoft.com/en-us/download/details.aspx?id=35)\
@@ -34,7 +34,7 @@ Vanguard (Valorant Anti-Che.. | [https://support-valorant.riotgames.com/hc/en-us
 
 ### <mark style="color:blue;">**Blue Screen error.**</mark>
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 Blue Screen (BSOD) may happen due to driver injection failure.\
 Restart your PC and try again in case if the "Blue Screen" error happen 5 times in a row - please follow next steps:\
@@ -43,7 +43,7 @@ Restart your PC and try again in case if the "Blue Screen" error happen 5 times 
 **3.** Windows reinstall.\
 
 
-### <mark style="color:blue;">**Unable to install exploit driver.**</mark>  ![](<../.gitbook/assets/image (15).png>)
+### <mark style="color:blue;">**Unable to install exploit driver.**</mark>  ![](<../.gitbook/assets/image (15) (1).png>)
 
 The “<mark style="color:blue;">Unable to install exploit driver</mark>” error usually occurs due to the presence of an anti-cheat/anti-virus on the PC. Most of the time it happen due to Riot's Vanguard anticheat (league of legends / valorant). Please follow next steps:\
 **1.** Remove all external protection software from your PC.\
@@ -53,13 +53,13 @@ The “<mark style="color:blue;">Unable to install exploit driver</mark>” erro
 **5.** Check the active processes, look for the any enabled protection / security services. Disable it in case if you find it.\
 **6.** Double click on "System"
 
-![](<../.gitbook/assets/image (16).png>)\
+![](<../.gitbook/assets/image (16) (1).png>)\
 **7.** Open "Modules" location\
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (1).png>)
 
 **8.** Search for Anticheat / Antivirus / Protection modules and unload it.\
 Internal server error\
-![](<../.gitbook/assets/image (18).png>)\
+![](<../.gitbook/assets/image (18) (1).png>)\
 It means that web server is currently offline and you need to wait till it back up.
 
 ## <mark style="color:blue;">**HONKAI STARRAIL**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Common Error</mark>&#x20;
@@ -68,11 +68,11 @@ It means that web server is currently offline and you need to wait till it back 
   \-Speed ​​battle screen freezes&#x20;
 * Speed ​​x3-4 => when you encounter an enemy in the photo, turn off speed battle
 
-&#x20;![](<../.gitbook/assets/image (19).png>)
+&#x20;![](<../.gitbook/assets/image (19) (1).png>)
 
 ERROR 403 :\
-![](../.gitbook/assets/image.png)
----------------------------------
+![](<../.gitbook/assets/image (20).png>)
+----------------------------------------
 
 DM me and I will change the new key for you or if you want to change the HWID yourself then follow these steps
 
@@ -80,7 +80,7 @@ DM me and I will change the new key for you or if you want to change the HWID yo
 2. Click HWID Reset
 3. The room will be created, your job is to send the key there according to the form \[Key] HSR GI,... \[Buy form]
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 
