@@ -1,4 +1,4 @@
-# Cách TP tự động
+# 📈 Cách TP tự động
 
 ## **Làm cách nào để setup custom teleports ?**
 

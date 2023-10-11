@@ -1,4 +1,4 @@
-# How to custom TP ?
+# 📈 How to custom TP ?
 
 ## How to set up custom teleports?
 

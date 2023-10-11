@@ -26,5 +26,5 @@ Tôi xin nhắc rằng tất cả vấn đề của các bạn tôi đã ghi h�
 
 
 
-I would like to remind you that I have written down all of your problems here. IF THERE IS REALLY A PROBLEM, THEN INBOX ME. Your problems are [Akebi](akebi-eng/questions.md) , [Unicore](unicore/questions.md)
+I would like to remind you that I have written down all of your problems here. IF THERE IS REALLY A PROBLEM, THEN INBOX ME. Your problems are [Akebi](akebi-eng/error.md) , [Unicore](unicore/questions.md)
 
