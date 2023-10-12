@@ -69,3 +69,11 @@ Lỗi Source Code , tìm không thấy File ?
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 Lỗi này thì các dùng file Setting nhập key của mình vào rồi dán đè kên File config cũ
+
+{% hint style="info" %}
+Lỗi kết nối mạng tới server , cách khắc phục ?
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+Nếu bị lỗi này thì hãy dùng VPN để mở thử VD : 1.1.1.1

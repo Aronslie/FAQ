@@ -56,3 +56,9 @@ Go in <mark style="color:orange;">\[Windows Security]</mark> - <mark style="colo
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 For this error, use the Setting file to enter your key and then paste the old config file
+
+### ERROR Failed Connect to server , How to fix ?
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+If this error occurs, use VPN to try opening for example: 1.1.1.1
