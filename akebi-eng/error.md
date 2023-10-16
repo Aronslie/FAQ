@@ -4,7 +4,7 @@
 
 Desktop Right click on Genshin and select <mark style="color:orange;">\[Open file Location]</mark> - Scroll up and select the folder <mark style="color:orange;">\[Genshin Impact game]</mark> which will appear to you like this.
 
-![](<../.gitbook/assets/image (3) (1).png>)![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)![](<../.gitbook/assets/image (21).png>)
 
 Then you copy this path into Akebilaucher's path selection section and it will show a folder for you to select genshinImpact.exe
 

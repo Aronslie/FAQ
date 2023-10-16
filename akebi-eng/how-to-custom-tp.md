@@ -4,18 +4,18 @@
 
 1. Go to \[Custom TP] section on the right
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select \[Enable] and click on this icon: ![](<../.gitbook/assets/Screenshot 2023-10-03 130639.png>)
 2.
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 3. Select Icon ![](<../.gitbook/assets/image (6).png>)
 4. The Custom panel will appear:&#x20;
 5.
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-6. Select Open Folder : ![](<../.gitbook/assets/image (4).png>)
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+6. Select Open Folder : ![](<../.gitbook/assets/image (4) (1).png>)
 7. It will automatically create a Teleports folder for you in the AKEBI folder you unzipped to run the game
 8. Your job now is to \[FIle TP] Copy the following files with the extension (.json).
 9.

@@ -11,7 +11,10 @@ Here : [Click](https://drive.google.com/drive/folders/1AtpBcIS-TqQzT7BJ54bo29SWb
 
 ### <mark style="color:blue;">How do I enable kill aura ?</mark>
 
-* Go to \[Setting] enable dangerous function , after enabling it will show up at Item \[World]
+* Go to ![](<../.gitbook/assets/image (1).png>) ![](<../.gitbook/assets/image (2).png>)enable dangerous function , after enabling it will show up at ![](<../.gitbook/assets/image (3).png>)
+* Enable ![](<../.gitbook/assets/image (4).png>)
+* value to 300-500k dmg ( crash dmg  mode )
+* Or enable ![](<../.gitbook/assets/image (29).png>)
 
 ### <mark style="color:blue;">How do I turn on the interactive map?</mark>
 

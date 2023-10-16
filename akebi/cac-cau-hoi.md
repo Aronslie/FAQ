@@ -16,7 +16,7 @@ Người việt nên dùng đồ Việt \~\~ ham hố tiếng anh không biết 
 
 ### Bật tự đánh quái như thế nào ?
 
-\- Vào Mục \[Cài đặt bên] trái Menu bật chức năng nguy hiểm , sau khi bật nó sẽ hiện thị tại mục <mark style="color:orange;">\[Thế Giới]</mark> cuộn xuống sẽ thấy&#x20;
+\- Vào phần ![](<../.gitbook/assets/image (1).png>) ![](<../.gitbook/assets/image (2).png>) enable dangerous function , sau đó nó hiện ra tại mục thế giới ![](<../.gitbook/assets/image (3).png>)
 
 * Ấn kích hoạt để dmg Crash là 300k&#x20;
 * Hoặc muốn tới mà quái chết luôn thì bật chế độ tử thần&#x20;

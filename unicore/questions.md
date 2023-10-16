@@ -80,7 +80,7 @@ DM me and I will change the new key for you or if you want to change the HWID yo
 2. Click HWID Reset
 3. The room will be created, your job is to send the key there according to the form \[Key] HSR GI,... \[Buy form]
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;
 

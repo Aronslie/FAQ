@@ -4,18 +4,18 @@
 
 1. Vào mục <mark style="color:orange;">\[TP tuỳ chỉnh]</mark> bên phải
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Chọn \[Kích Hoạt] và ấn vào icon này : ![](<../.gitbook/assets/Screenshot 2023-10-03 130639.png>)
 2.
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 3. Ấn Vào Icon ![](<../.gitbook/assets/image (6).png>)
 4. Bảng Custom sẽ hiện ra :&#x20;
 5.
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-6. Chọn Open Folder : ![](<../.gitbook/assets/image (4).png>)
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+6. Chọn Open Folder : ![](<../.gitbook/assets/image (4) (1).png>)
 7. Nó sẽ tự tạo cho bạn thư mục Teleports trong Thu mục AKEBI bạn đã giải nén chạy game&#x20;
 8. Việc của bạn bây giờ là ra \[FIle TP] Coppy các File có đuôi (.json) sau
 9.
