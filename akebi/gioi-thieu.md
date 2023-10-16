@@ -13,7 +13,7 @@ Tất cả thông tin Trang này là do mình viết .
 Tại đây mình viết các hướng dẫn và tổng hợp một số cách để dùng và sử dụng cho Tool game . Các bạn hãy xem qua và tham khảo, nếu như có chỗ nào sai hay không đúng thì có thể nhắc giúp mình.&#x20;
 {% endhint %}
 
-\- Thông Tin Liên Hệ Cá Nhân :
+## - Thông Tin Liên Hệ Cá Nhân :
 
 * Server Discord : [**Aronslie**](https://discord.gg/78ApGEAKFU)
 * Website : [<mark style="color:blue;">**Arons**</mark>](https://arons.sell.app/?browse=products\&cursor=)

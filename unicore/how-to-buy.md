@@ -21,7 +21,7 @@ See role (Reseller) ✅
 {% tabs %}
 {% tab title="Genshin" %}
 ```
-> Key 01D  | 1.8 USD » In stock 
+> Key 01D  |   2 USD » In stock 
 > Key 07D  |   7 USD » In stock 
 > Key 30D  |  20 USD » In stock 
 > Key 90D  |  45 USD » In stock 
@@ -31,7 +31,7 @@ See role (Reseller) ✅
 
 {% tab title="HonkaiStarRail" %}
 ```
-> Key 01D  | 1.8 USD » In stock
+> Key 01D  |   2 USD » In stock
 > Key 07D  |   6 USD » In stock
 > Key 30D  |  11 USD » In stock
 > Key 90D  |  25 USD » In stock
@@ -41,7 +41,7 @@ See role (Reseller) ✅
 
 {% tab title="Fivem/rage" %}
 ```
-> Key 01D  | 1.8 USD » In stock
+> Key 01D  |   2 USD » In stock
 > Key 07D  |   6 USD » In stock
 > Key 30D  |  11 USD » In stock
 > Key 90D  |  30 USD » In stock
