@@ -6,7 +6,7 @@ description: >-
 
 # 🕹 Chức năng
 
-<mark style="color:orange;">**Lời khuyên cho anh em là để phạm vi 20m , 30m  về phần độ trễ là delay đừng nên động vào nhiều quá**</mark>&#x20;
+<mark style="color:orange;">**Lời khuyên cho anh em là để phạm vi 10M  về phần độ trễ là delay đừng nên động vào nhiều quá**</mark>&#x20;
 
 <details>
 

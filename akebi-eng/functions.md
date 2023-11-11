@@ -6,7 +6,7 @@ description: >-
 
 # 🕹 FUNCTIONS
 
-<mark style="color:red;">**Advice for you is to keep the delay between 20m and 30m. Don't abuse the delay function.**</mark>
+<mark style="color:red;">**Advice for you is to keep the delay between 10M. Don't abuse the delay function.**</mark>
 
 <details>
 
