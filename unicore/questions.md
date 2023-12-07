@@ -74,17 +74,15 @@ ERROR 403 :\
 ![](<../.gitbook/assets/image (20).png>)
 ----------------------------------------
 
-DM me and I will change the new key for you or if you want to change the HWID yourself then follow these steps
+Go my server : [Click](https://discord.com/channels/1104940962804936856/1181413007415332914)&#x20;
 
-1. Go Unicore server select support-ticket
-2. Click HWID Reset
-3. The room will be created, your job is to send the key there according to the form \[Key] HSR GI,... \[Buy form]
+Create Ticket : ![](<../.gitbook/assets/image (36).png>)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+1. Write down the cpu + vga information you are using&#x20;
+2. And Key \[SDHJK-XXXXX-XXXXX]
+3. Please wait 5-15 minutes I will verify if it matches I will change the HWID for you
 
-&#x20;
 
-&#x20;
 
 \
 \
