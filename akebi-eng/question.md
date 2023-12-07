@@ -1,22 +1,22 @@
 # 🗃 Question ?
 
-## How TO Safe ?
+## <mark style="color:yellow;">How To Safe ?</mark>
 
 * The advice for you guys is to keep the delay range 20m, 30m, don't touch it.
 * Don't go to other people's Worlds (friends, bth) if it doesn't have RP or Lo UID Whether it is safe or not is a matter of chance, there is no cheat that is 100% safe except for 1 house but has few features.
 
-## How to get File TP ?
+## <mark style="color:yellow;">How to get File TP ?</mark>
 
 Here : [Click](https://drive.google.com/drive/folders/1AtpBcIS-TqQzT7BJ54bo29SWbqtlstVt?usp=sharing)
 
-### <mark style="color:blue;">How do I enable kill aura ?</mark>
+### <mark style="color:yellow;">How do I enable kill aura ?</mark>
 
 * Go to ![](<../.gitbook/assets/image (1).png>) ![](<../.gitbook/assets/image (2).png>)enable dangerous function , after enabling it will show up at ![](<../.gitbook/assets/image (3).png>)
 * Enable ![](<../.gitbook/assets/image (4).png>)
 * value to 300-500k dmg ( crash dmg  mode )
 * Or enable ![](<../.gitbook/assets/image (29).png>)
 
-### <mark style="color:blue;">How do I turn on the interactive map?</mark>
+### <mark style="color:yellow;">How do I turn on the interactive map?</mark>
 
 * Open the map - Look at the left corner of the map. The word sync map will appear
 * Just pull it out like a menu
@@ -26,26 +26,26 @@ Why isn't my auto-challenge working?
 * Turn off no clip&#x20;
 * Check the operating range and if it's too far, run along the path until it gets it
 
-### Why can't you solve the puzzle yourself?
+### <mark style="color:yellow;">Why can't you solve the puzzle yourself?</mark>
 
 * It will do whatever is in the filter
 * Otherwise, understand
 
-### The shows info do nothing?
+### <mark style="color:yellow;">The shows info do nothing?</mark>
 
 * Because the AKEBI interface has been updated, you want to see the information panel
 * Go to TP section ![](<../.gitbook/assets/image (17).png>) Press the eye icon to display \~\~
 * The function display panel is similar
 
-### Why is my Menu so small? How can I make it as big as the video?
+### <mark style="color:yellow;">Why is my Menu so small? How can I make it as big as the video?</mark>
 
 * When you open the menu, look at the right corner of the menu and you will see this <img src="../.gitbook/assets/image (23).png" alt="" data-size="line"> sẽ có cái này để bạn kéo to ra
 
-### How can I see the description of that feature and what effect it has?
+### <mark style="color:yellow;">How can I see the description of that feature and what effect it has?</mark>
 
 * Point your mouse on this icon![](<../.gitbook/assets/image (22).png>)it will describe the function for you
 
-### How to display file extensions like json, exe etc!
+### <mark style="color:yellow;">How to display file extensions like json, exe etc!</mark>
 
 * File .json (for those who don't see it ) - go to the teleports folder press View-go to the show section and select File name extension
 *

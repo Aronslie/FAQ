@@ -11,9 +11,9 @@ Currently I am reselling key Akebi and is the official Reseller at the Akebi ser
 You can check their roles by pressing on their profile in sever [AKEBI](https://discord.gg/akebi) \
 See role (Reseller) ✅
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 101959.png" alt=""><figcaption><p>Hồ sơ Arons</p></figcaption></figure>
 
-**Buy For paypal** [**SHOP**](https://arons.sell.app/?browse=products\&cursor=) **or DM** [**Arons** ](https://discord.com/users/727853330696634397)
+
+**Buy For paypal** [**Shop**](https://arons.mysellix.io) **or DM** [**Arons** ](https://discord.com/users/727853330696634397)
 
 [**Wise**](https://wise.com/invite/dic/tranthaib2) **( It supports many countries ) : juikiokl890@gmail.com**
 

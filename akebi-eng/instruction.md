@@ -14,14 +14,14 @@ Download Link mega&#x20;
 Download the available Setting File here : [Click](https://drive.google.com/drive/folders/16sKte70I\_fK8W09K4BJnS6JqzPzy\_KuR?usp=sharing)\
 After downloading the File to the folder do the following steps
 
-**I . RUNNING INSTRUCTIONS**
+<mark style="color:yellow;">**I . RUNNING INSTRUCTIONS**</mark>
 
 1. Winrar Extract to <mark style="color:orange;">\[AkebiPrivate]</mark> and run <mark style="color:orange;">\[Akebilaucher.exe]</mark> , select path <mark style="color:orange;">\[GenshinImpact.exe]</mark> .
 2. Wait 5s-10s the game will open automatically. When you get to the login screen, DO NOT CLICK ON THE GAME.
 3. Wait a 5-10s, it will appear on the CMD panel, Enter key . \[key has the form: <mark style="color:orange;">AKEBI-xDay-FULL-XXXX-XXXX</mark>...] .
 4. IF you see CMD show console wait 5s after CMD is disabled press F1 (For file file has been set \~ ) .&#x20;
 
-**II . INFORMATION**&#x20;
+<mark style="color:yellow;">**II . INFORMATION**</mark>&#x20;
 
 <mark style="color:orange;">The key expiry date will only start running after entering the key into the tool. The key expiry date is calculated in real time and will always run whether you use it or not.</mark>
 
@@ -29,7 +29,7 @@ After downloading the File to the folder do the following steps
 2. Key 1D and 7D : 1 Time change HWID (device) .
 3. Key 30D : 3 Time change HWID (device) and 1 Time pause key .&#x20;
 
-**III . IMPORTANT ! \[Should be done immediately after purchasing the key]**
+<mark style="color:yellow;">**III . IMPORTANT ! \[Should be done immediately after purchasing the key]**</mark>
 
 * How to add key to bot to check expiration date, change device, stop key, avoid losing key ?
 

@@ -11,9 +11,9 @@ Currently I am reselling key Unicore and is the official Reseller at the Unicore
 You can check their roles by pressing on their profile in sever [UNICORE](https://discord.gg/zGKJH6EpwZ)\
 See role (Reseller) ✅
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 101959.png" alt=""><figcaption><p>Hồ sơ Arons</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-**Buy For paypal** [**SHOP**](https://arons.sell.app/?browse=products\&cursor=) **or DM** [**Arons** ](https://discord.com/users/727853330696634397)
+**Buy For paypal** [**Shop**](https://arons.mysellix.io) **or DM** [**Arons** ](https://discord.com/users/727853330696634397)
 
 [**Wise**](https://wise.com/invite/dic/tranthaib2) **( It supports many countries ) : juikiokl890@gmail.com**\
 **Price Unicore :**
@@ -21,10 +21,10 @@ See role (Reseller) ✅
 {% tabs %}
 {% tab title="Genshin" %}
 ```
-> Key 01D  |   2 USD » In stock 
-> Key 07D  |   7 USD » In stock 
-> Key 30D  |  20 USD » In stock 
-> Key 90D  |  45 USD » In stock 
+> Key 01D  | 2.5 USD » In stock 
+> Key 07D  |   8 USD » In stock 
+> Key 30D  |  21 USD » In stock 
+> Key 90D  |  47 USD » In stock 
 > Key LT   | 300 USD » In stock 
 ```
 {% endtab %}
@@ -32,7 +32,7 @@ See role (Reseller) ✅
 {% tab title="HonkaiStarRail" %}
 ```
 > Key 01D  |   2 USD » In stock
-> Key 07D  |   6 USD » In stock
+> Key 07D    7.5 USD » In stock
 > Key 30D  |  11 USD » In stock
 > Key 90D  |  25 USD » In stock
 > Key LT   | 100 USD » In stock

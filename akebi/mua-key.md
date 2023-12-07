@@ -13,15 +13,15 @@ Bạn có thể kiểm tra Role của họ bằng các ấn vào profile họ tr
 
 Thấy role ( Reseller ) ✅
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 101959.png" alt=""><figcaption><p>Hồ sơ Arons</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 **BẢNG GIÁ :**
 
 |     Key     |  Giá |     Giảm giá    |
 | :---------: | :--: | :-------------: |
 | Key 01 Ngày |  60k |  Mua x5 : 55K/1 |
-| Key 07 Ngày | 210k | Mua x5 : 190k/1 |
-| Key 30 Ngày | 500k | Mua x5 : 450k/1 |
+| Key 07 Ngày | 210k | Mua x2 : 190k/1 |
+| Key 30 Ngày | 500k | Mua x2 : 480k/1 |
 
 **Nhận Thanh Toán :**&#x20;
 

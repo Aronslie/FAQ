@@ -16,7 +16,7 @@ Tại đây mình viết các hướng dẫn và tổng hợp một số cách �
 ## - Thông Tin Liên Hệ Cá Nhân :
 
 * Server Discord : [**Aronslie**](https://discord.gg/78ApGEAKFU)
-* Website : [<mark style="color:blue;">**Arons**</mark>](https://arons.sell.app/?browse=products\&cursor=)
+* Website : [**Sellix**](https://arons.mysellix.io)
 * Discord : [**Arons** ](https://discord.com/users/727853330696634397)
 * Telegram : [**Arons**](https://t.me/aronslie)
 * [**Server AKEBI**](https://discord.gg/akebi)
