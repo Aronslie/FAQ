@@ -1,6 +1,12 @@
 # 🔍 Các Lỗi thường gặp
 
 {% hint style="warning" %}
+Đối với những bạn bị lỗi not responding .
+{% endhint %}
+
+Bạn nên chuyển game sang chế độ cửa sổ và ấn tuỳ chọn là wait và hãy chờ đợi ( đừng ấn gì cả ) nếu đợi lâu và không được hãy mở lại cheat
+
+{% hint style="warning" %}
 <mark style="color:yellow;">Đối với những bạn bị game bị 2 ổ !</mark>
 {% endhint %}
 
