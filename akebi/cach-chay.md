@@ -18,10 +18,12 @@ Sau khi tải File về thư mục làm các bước sau&#x20;
 
 ## **I . HƯỚNG DẪN CHẠY**
 
-1. Winrar Extract to <mark style="color:orange;">\[AkebiPrivate]</mark> và chạy <mark style="color:orange;">\[Akebilaucher.exe</mark>] , chọn đường dẫn \[GenshinImpact.exe] .
-2. Chờ 5-15s để game tự động mở. Khi đến màn hình đăng nhập, Đừng ấn gì hết.
-3. Chờ 5-10s, sau đó bảng CMD sẽ hiện lên, Nhập key. \[Key sẽ như này : <mark style="color:orange;">AKEBI-xDay-FULL-XXXX-XXXX...</mark>] .
-4. Nếu bạn thấy CMD hiện thị chữ console 5s hãy chờ khoản 5s bảng CMD sẽ tắt vào game và ấn F1 mở Menu dấu \` cho file setiing sẵn . &#x20;
+1. Winrar Extract to <mark style="color:orange;">\[AkebiPrivate]</mark> và chạy <mark style="color:orange;">\[Akebilaucher.exe</mark>] , chọn đường dẫn \[GenshinImpact.exe]&#x20;
+2. Chuột phải vào game Genshin ở desktop chọn <mark style="color:orange;">\[open file location]</mark> - Cuộn chuột lên và ấn vào thư mục <mark style="color:orange;">\[Genshin Impact game]</mark> File <mark style="color:orange;">\[GenshinImpact.exe]</mark>  sẽ ở đó <mark style="color:orange;">( này hướng dẫn đối với những bạn không biết dùng đường link của game ở đâu )</mark>
+3. Khuyên Là nên để chế độ game thành cửa sổ để dễ quan sát bảng CMD có hiện hay không&#x20;
+4. Chờ 5-15s để game tự động mở. Khi đến màn hình đăng nhập, Đừng ấn gì hết.
+5. Chờ 5-10s, sau đó bảng CMD sẽ hiện lên, Nhập key. \[Key sẽ như này : <mark style="color:orange;">AKEBI-xDay-FULL-XXXX-XXXX...</mark>] .
+6. Nếu bạn thấy CMD hiện thị chữ console 5s hãy chờ khoản 5s bảng CMD sẽ tắt vào game và ấn F1 mở Menu dấu \` cho file setiing sẵn . &#x20;
 
 ### **II . THÔNG TIN**&#x20;
 
