@@ -16,3 +16,10 @@
 * [📈 How to custom TP ?](akebi-eng/how-to-custom-tp.md)
 * [🗃 Question ?](akebi-eng/question.md)
 * [⚙ PROBLEMS](akebi-eng/problems.md)
+
+## Korepi&#x20;
+
+* [INSTRUCTION](korepi/instruction.md)
+* [FUNCTIONS](korepi/functions.md)
+* [How To Custom TP ?](korepi/how-to-custom-tp.md)
+* [Question ?](korepi/question.md)
