@@ -1,4 +1,4 @@
-# 🔍 QUESTIONS
+# ⚙ PROBLEMS
 
 ## <mark style="color:blue;">**Genshin Impact bugs / issues manual**</mark>
 

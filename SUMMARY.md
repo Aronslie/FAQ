@@ -7,7 +7,7 @@
 
 * [📚 INSTRUCTION](unicore/instruction.md)
 * [🕹 FUNCTIONS](unicore/functions.md)
-* [🔍 QUESTIONS](unicore/questions.md)
+* [⚙ PROBLEMS](unicore/problems.md)
 
 ## AKEBI ENG
 
@@ -15,4 +15,4 @@
 * [🕹 FUNCTIONS](akebi-eng/functions.md)
 * [📈 How to custom TP ?](akebi-eng/how-to-custom-tp.md)
 * [🗃 Question ?](akebi-eng/question.md)
-* [🛠 ERROR](akebi-eng/error.md)
+* [⚙ PROBLEMS](akebi-eng/problems.md)
