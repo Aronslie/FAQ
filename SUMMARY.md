@@ -10,16 +10,6 @@
 * [🕹 FUNCTIONS](unicore/functions.md)
 * [🔍 QUESTIONS](unicore/questions.md)
 
-## AKEBI
-
-* [👤 Giới Thiệu](akebi/gioi-thieu.md)
-* [🔑 Mua Key](akebi/mua-key.md)
-* [🖥 Cách Chạy](akebi/cach-chay.md)
-* [🕹 Chức năng](akebi/chuc-nang.md)
-* [📈 Cách TP tự động](akebi/cach-tp-tu-dong.md)
-* [🗃 Các Câu hỏi ?](akebi/cac-cau-hoi.md)
-* [🔍 Các Lỗi thường gặp](akebi/cac-van-de.md)
-
 ## AKEBI ENG
 
 * [👤 INFO](akebi-eng/info.md)
