@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📚 INSTRUCTION / GUIDE](README.md)
-* [INFO & BUY](info-and-buy.md)
+* [👤 INFO & BUY](info-and-buy.md)
 
 ## Unicore
 
