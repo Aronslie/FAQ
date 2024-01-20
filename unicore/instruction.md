@@ -28,7 +28,7 @@ After downloading the File to the folder do the following steps
 * Avast / Norton / Kaspersky (Anti-Virus Software) \[Turn off] or \[delete]
 * FACEIT / ESEA / CEVO Clients , Vanguard (CS:GO League Anti-Che..s) \[Turn off] For GTA ( The tool does not support reshaders )
 
-For GTA <mark style="color:blue;">( The tool does not support reshaders )</mark>&#x20;
+For GTA <mark style="color:yellow;">( The tool does not support Reshaders , Mod )</mark>&#x20;
 
 ### <mark style="color:blue;">**Fivem/rage**</mark> •Open loader as administrator, before opening the game. •Enter your key in loader. •Open GTA V (FiveM or RageMP, depends on key) •Press ‘F2’ on keyboard when you will see your character (you will hear double sound) •Press F6 to open / close the menu •Enjoy!
 
