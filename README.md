@@ -20,11 +20,7 @@ layout:
 
 # 📚 INSTRUCTION / GUIDE
 
-<mark style="color:purple;">**Được Viết Bởi Arons | Written By Arons**</mark>
+## <mark style="color:purple;">**Written By Arons**</mark>
 
-Tôi xin nhắc rằng tất cả vấn đề của các bạn tôi đã ghi hết trong đây , NẾU THẬT SỰ CÓ VẤN ĐỀ THÌ MỚI INB CHO TÔI , Các vấn đề của bạn cần tìm ở [Đây](broken-reference) ,
-
-
-
-I would like to remind you that I have written down all of your problems here. IF THERE IS REALLY A PROBLEM, THEN INBOX ME. Your problems are [Akebi](akebi-eng/problems.md) , [Unicore](unicore/problems.md)
+I would like to remind you that I have written down all of your problems here. IF THERE IS REALLY A PROBLEM, THEN INBOX ME. Your problems are [Akebi](akebi-eng/problems.md) , [Unicore](unicore/problems.md) , <mark style="color:blue;">Krp</mark> , <mark style="color:blue;">Neox</mark>
 

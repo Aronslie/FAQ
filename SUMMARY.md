@@ -17,6 +17,10 @@
 * [🗃 Question ?](akebi-eng/question.md)
 * [⚙ PROBLEMS](akebi-eng/problems.md)
 
+## Valorant Guide
+
+* [📚 Neox Guide](valorant-guide/neox-guide.md)
+
 ## Korepi&#x20;
 
 * [INSTRUCTION](korepi/instruction.md)
