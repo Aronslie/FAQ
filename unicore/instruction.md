@@ -36,7 +36,7 @@ For GTA <mark style="color:yellow;">( The tool does not support Reshaders , Mod 
 
 OR YOU CAN WATCH VIDEO HERE :&#x20;
 
-{% embed url="https://youtu.be/R7Pl3qDFz9w?si=uMSdFRYdbkvpoiXD" %}
+{% embed url="https://youtu.be/R7Pl3qDFz9w?si=uMSdFRYdbkvpoiXD" fullWidth="true" %}
 
 
 

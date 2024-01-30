@@ -50,4 +50,4 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 
 OR WATCH VIDEO HERE :&#x20;
 
-{% embed url="https://youtu.be/syRp56qt2CE?si=AAg-QPJMyh43M394" %}
+{% embed url="https://youtu.be/syRp56qt2CE?si=AAg-QPJMyh43M394" fullWidth="true" %}

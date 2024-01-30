@@ -44,13 +44,7 @@ Remember to let the cheat full-screen window Menu appear
 
 OR YOU CAN WATCH VIDEO HERE :&#x20;
 
-{% embed url="https://youtu.be/R7Pl3qDFz9w?si=uMSdFRYdbkvpoiXD" %}
-
-
-
-
-
-
+{% embed url="https://www.youtube.com/watch?t=13s&v=tFh_ENKDCig" fullWidth="true" %}
 
 
 

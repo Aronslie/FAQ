@@ -20,6 +20,7 @@
 ## Valorant Guide
 
 * [📚 Neox Guide](valorant-guide/neox-guide.md)
+* [Question ?](valorant-guide/question.md)
 
 ## Korepi&#x20;
 
