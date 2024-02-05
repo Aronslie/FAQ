@@ -82,11 +82,9 @@ Create Ticket : ![](<../.gitbook/assets/image (36).png>)
 2. And Key \[SDHJK-XXXXX-XXXXX]
 3. Please wait 5-15 minutes I will verify if it matches I will change the HWID for you
 
+Fix 0xf702f33c & Fatal Error!
 
+![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (1).png>)\
+Disable Antimalware&#x20;
 
-\
-\
-
-
-\
-\
+{% embed url="https://www.youtube.com/watch?v=OB4Si1U_0v4" fullWidth="true" %}

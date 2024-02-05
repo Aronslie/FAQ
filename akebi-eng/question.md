@@ -11,7 +11,7 @@ Here : [Click](https://drive.google.com/drive/folders/1AtpBcIS-TqQzT7BJ54bo29SWb
 
 ### <mark style="color:yellow;">How do I enable kill aura ?</mark>
 
-* Go to ![](<../.gitbook/assets/image (1).png>) ![](<../.gitbook/assets/image (2).png>)enable dangerous function , after enabling it will show up at ![](<../.gitbook/assets/image (3).png>)
+* Go to ![](<../.gitbook/assets/image (1) (1).png>) ![](<../.gitbook/assets/image (2) (1).png>)enable dangerous function , after enabling it will show up at ![](<../.gitbook/assets/image (3).png>)
 * Enable ![](<../.gitbook/assets/image (4).png>)
 * value to 300-500k dmg ( crash dmg  mode )
 * Or enable ![](<../.gitbook/assets/image (29).png>)

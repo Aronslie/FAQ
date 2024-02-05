@@ -4,7 +4,7 @@
 
 1. Go to \[Custom TP] section on the right
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select \[Enable] and click on this icon: ![](<../.gitbook/assets/Screenshot 2023-10-03 130639.png>)
 2.
