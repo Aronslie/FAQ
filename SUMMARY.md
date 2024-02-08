@@ -25,6 +25,5 @@
 ## Korepi&#x20;
 
 * [INSTRUCTION](korepi/instruction.md)
-* [FUNCTIONS](korepi/functions.md)
 * [How To Custom TP ?](korepi/how-to-custom-tp.md)
 * [Question ?](korepi/question.md)
