@@ -66,7 +66,19 @@ Internal server error\
 
 * It means that web server is currently offline and you need to wait till it back up.
 
-## <mark style="color:blue;">**HONKAI STARRAIL**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Common Error</mark>&#x20;
+
+
+### An Exception :
+
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
+giữ phím <mark style="color:yellow;">\[ H ]</mark> sau đó mở Loader nó sẽ hiện bản như sau :&#x20;
+
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+Sau đó ấn Continue chọn server Hongkong - Ấn No và vào mở lại Loader
+
+### <mark style="color:blue;">**HONKAI STARRAIL**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Common Error</mark>&#x20;
 
 * error 2010 before battle > turn off speed up dialog \
   \-Speed ​​battle screen freezes&#x20;
