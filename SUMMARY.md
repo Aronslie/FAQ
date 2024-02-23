@@ -6,16 +6,16 @@
 ## Unicore
 
 * [📚 INSTRUCTION](unicore/instruction.md)
-* [🕹 FUNCTIONS](unicore/functions.md)
-* [⚙ PROBLEMS](unicore/problems.md)
+* [🕹️ FUNCTIONS](unicore/functions.md)
+* [⚙️ PROBLEMS](unicore/problems.md)
 
 ## AKEBI ENG
 
 * [📖 INSTRUCTION](akebi-eng/instruction.md)
-* [🕹 FUNCTIONS](akebi-eng/functions.md)
+* [🕹️ FUNCTIONS](akebi-eng/functions.md)
 * [📈 How to custom TP ?](akebi-eng/how-to-custom-tp.md)
-* [🗃 Question ?](akebi-eng/question.md)
-* [⚙ PROBLEMS](akebi-eng/problems.md)
+* [🗃️ Question ?](akebi-eng/question.md)
+* [⚙️ PROBLEMS](akebi-eng/problems.md)
 
 ## Valorant Guide
 

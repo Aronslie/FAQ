@@ -1,16 +1,16 @@
-# ⚙ PROBLEMS
+# ⚙️ PROBLEMS
 
 ## <mark style="color:blue;">**Genshin Impact bugs / issues manual**</mark>
 
-No injection at all / no sound effect on "<mark style="color:blue;">F2</mark>" click.\
+No injection at all / no sound effect on <mark style="color:blue;">**F2**</mark> click.\
 **1.** Open Windows Core Isolation settings  <mark style="color:blue;">(can be found in Windows Securite folder)</mark>\
 **2.** Turn off the core isolation feature\
 ![](<../.gitbook/assets/image (13) (1).png>)\
-**3.** Disable all external anticheats on your PC such as <mark style="color:blue;">"Vanguard", "EAC", "Ricochet"</mark>.\
+**3.** Disable all external anticheats on your PC such as <mark style="color:blue;">**"Vanguard", "EAC", "Ricochet"**</mark>.\
 **4.** Download the following files and install:\
 [https://www.microsoft.com/en-us/download/details.aspx?id=35](https://www.microsoft.com/en-us/download/details.aspx?id=35)\
 [https://dotnet.microsoft.com/en-us/download/dotnet-framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)\
-5\. Remove Anti-Virus Software: <mark style="color:blue;">"Kaspersky" / "Avast" / "Avira"/ "360 total secure"/ etc</mark>. You need to fully remove antivirus if having this issue.\
+5\. Remove Anti-Virus Software: <mark style="color:blue;">**"Kaspersky" / "Avast" / "Avira"/ "360 total secure"/ etc**</mark>. You need to fully remove antivirus if having this issue.\
 **6.** Restart your PC and try again.\
 \
 Make sure that these programs arent installed:
@@ -58,15 +58,19 @@ The “<mark style="color:blue;">Unable to install exploit driver</mark>” erro
 ![](<../.gitbook/assets/image (17) (1).png>)
 
 **8.** Search for Anticheat / Antivirus / Protection modules and unload it.\
+
+
 Internal server error\
-![](<../.gitbook/assets/image (18) (1).png>)\
-It means that web server is currently offline and you need to wait till it back up.
+![](<../.gitbook/assets/image (18) (1).png>)
+--------------------------------------------
+
+* It means that web server is currently offline and you need to wait till it back up.
 
 ## <mark style="color:blue;">**HONKAI STARRAIL**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Common Error</mark>&#x20;
 
 * error 2010 before battle > turn off speed up dialog \
   \-Speed ​​battle screen freezes&#x20;
-* Speed ​​x3-4 => when you encounter an enemy in the photo, turn off speed battle
+* Speed battle ​​x5 => when you encounter an enemy in the photo, turn off speed battle
 
 &#x20;![](<../.gitbook/assets/image (19) (1).png>)
 
@@ -82,7 +86,7 @@ Create Ticket : ![](<../.gitbook/assets/image (36).png>)
 2. And Key \[SDHJK-XXXXX-XXXXX]
 3. Please wait 5-15 minutes I will verify if it matches I will change the HWID for you
 
-Fix 0xf702f33c & Fatal Error!
+## Fix 0xf702f33c & Fatal Error!
 
 ![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (1).png>)\
 Disable Antimalware&#x20;
