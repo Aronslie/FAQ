@@ -72,11 +72,11 @@ Internal server error\
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-giữ phím <mark style="color:yellow;">\[ H ]</mark> sau đó mở Loader nó sẽ hiện bản như sau :&#x20;
+Hold down \[ H ] key then open Loader it will display the following version:
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-Sau đó ấn Continue chọn server Hongkong - Ấn No và vào mở lại Loader
+Then press Continue, select Hong Kong server - Press No and reopen Loader
 
 ### <mark style="color:blue;">**HONKAI STARRAIL**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Common Error</mark>&#x20;
 
