@@ -70,3 +70,7 @@ Go to Settings section Turn off protection: Use predefined file signatures :
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+IF you see Orther File Detele them .
+
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
