@@ -66,9 +66,13 @@ Internal server error\
 
 * It means that web server is currently offline and you need to wait till it back up.
 
+## <mark style="color:blue;">Failed to Find Target Process</mark>&#x20;
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### An Exception :
+Check Windows core isolation
+
+### <mark style="color:blue;">An Exception :</mark>
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
@@ -86,7 +90,7 @@ Then press Continue, select Hong Kong server - Press No and reopen Loader
 
 &#x20;![](<../.gitbook/assets/image (19) (1).png>)
 
-ERROR 403 :\
+<mark style="color:orange;">ERROR 403 :</mark>\
 ![](<../.gitbook/assets/image (20).png>)
 ----------------------------------------
 
@@ -98,9 +102,9 @@ Create Ticket : ![](<../.gitbook/assets/image (36).png>)
 2. And Key \[SDHJK-XXXXX-XXXXX]
 3. Please wait 5-15 minutes I will verify if it matches I will change the HWID for you
 
-## Fix 0xf702f33c & Fatal Error!
+## <mark style="color:blue;">Fix 0xf702f33c & Fatal Error!</mark>
 
-![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (1).png>)\
+![](<../.gitbook/assets/image (2).png>)![](<../.gitbook/assets/image (1) (1).png>)\
 Disable Antimalware&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=OB4Si1U_0v4" fullWidth="true" %}
