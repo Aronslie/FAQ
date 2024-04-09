@@ -5,9 +5,7 @@
 
 ## Unicore
 
-* [📚 INSTRUCTION](unicore/instruction.md)
-* [🕹️ FUNCTIONS](unicore/functions.md)
-* [⚙️ PROBLEMS](unicore/problems.md)
+* [📚 Guide & Fix](unicore/guide-and-fix.md)
 
 ## AKEBI ENG
 
