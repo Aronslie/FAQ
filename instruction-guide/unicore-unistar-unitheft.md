@@ -2,7 +2,7 @@
 description: I've compiled all the errors you need and what you need to run below
 ---
 
-# 📚 Guide & Fix
+# 📚 Unicore - Unistar - Unitheft
 
 {% tabs %}
 {% tab title="Loader" %}
@@ -100,7 +100,17 @@ Valorant's Anti-Cheat :
 {% endtab %}
 
 {% tab title="Show Case" %}
+Unicore&#x20;
 
+{% embed url="https://www.youtube.com/watch?t=1s&v=UF_n5nPKRJ0" %}
+
+Unistar :&#x20;
+
+{% embed url="https://www.youtube.com/watch?t=5s&v=rVrwtdIX968" %}
+
+Unitheft :&#x20;
+
+{% embed url="https://www.youtube.com/watch?t=252s&v=Qm4fIeja6Sg" %}
 {% endtab %}
 
 {% tab title="Error" %}
@@ -177,16 +187,6 @@ Disable Antimalware&#x20;
 {% embed url="https://youtu.be/OB4Si1U_0v4" %}
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-
-
-
-
-
 
 
 

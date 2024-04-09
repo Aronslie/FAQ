@@ -1,11 +1,8 @@
 # Table of contents
 
 * [📚 INSTRUCTION / GUIDE](README.md)
+  * [📚 Unicore - Unistar - Unitheft](instruction-guide/unicore-unistar-unitheft.md)
 * [👤 INFO & BUY](info-and-buy.md)
-
-## Unicore
-
-* [📚 Guide & Fix](unicore/guide-and-fix.md)
 
 ## AKEBI ENG
 
