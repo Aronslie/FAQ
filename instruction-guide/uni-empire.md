@@ -171,7 +171,7 @@ Internal server error\
 
 ## <mark style="color:blue;">Failed to Find Target Process</mark>&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Check Windows core isolation
 
@@ -181,7 +181,7 @@ Contact Us : Me
 
 ## <mark style="color:blue;">Fix 0xf702f33c & Fatal Error!</mark>
 
-![](<../.gitbook/assets/image (2).png>)![](<../.gitbook/assets/image (1) (1).png>)\
+![](<../.gitbook/assets/image (2) (1).png>)![](<../.gitbook/assets/image (1) (1) (1).png>)\
 Disable Antimalware&#x20;
 
 {% embed url="https://youtu.be/OB4Si1U_0v4" %}

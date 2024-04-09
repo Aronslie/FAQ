@@ -1,3 +1,7 @@
+---
+description: I've compiled all the errors you need and what you need to run below
+---
+
 # 📖 Akebi
 
 {% tabs %}
@@ -21,8 +25,8 @@ Here : [Click](https://discord.com/channels/1104940962804936856/1157875562799439
 
 ### <mark style="color:yellow;">How do I enable kill aura ?</mark>
 
-* Go to ![](<../.gitbook/assets/image (1) (1) (1).png>)
-* &#x20;![](<../.gitbook/assets/image (2) (1) (1).png>) **Enable** dangerous function , after enabling it will show up at  .<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
+* Go to ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+* &#x20;![](<../.gitbook/assets/image (2) (1) (1) (1).png>) **Enable** dangerous function , after enabling it will show up at  .<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
 * Enable :
 * &#x20;![](<../.gitbook/assets/image (4).png>)
 * value to 300-500k dmg ( crash dmg  mode )
@@ -72,7 +76,7 @@ After downloading, check which version of your window you are using&#x20;
 
 **Warning** : only Window 10 - 11
 
-## **I . RUNNING INSTRUCTIONS**
+## **I . Setup INSTRUCTIONS**
 
 Create a Folder and put the downloaded file in . For example : Unixxx
 
@@ -133,7 +137,7 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 
 1. Go to <mark style="color:purple;">**\[Custom TP]**</mark> section on the right :
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select <mark style="color:purple;">**\[Enable]**</mark> and click on this icon: ![](<../.gitbook/assets/Screenshot 2023-10-03 130639.png>)
 2.
@@ -143,7 +147,7 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 4. The Custom panel will appear :&#x20;
 5.
 
-    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 6. Select Open Folder : ![](<../.gitbook/assets/image (4) (1).png>)
 7. It will automatically create a Teleports folder for you in the AKEBI folder you unzipped to run the game .
 8. Your job now is to <mark style="color:purple;">**\[FIle TP]**</mark> Copy the following files with the extension <mark style="color:purple;">**(.json) :**</mark>
@@ -187,7 +191,7 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 
 Desktop Right click on Genshin and select <mark style="color:orange;">\[Open file Location]</mark> - Scroll up and select the folder <mark style="color:orange;">\[Genshin Impact game]</mark> which will appear to you like this.
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)![](<../.gitbook/assets/image (21).png>)
 
 Then you copy this path into Akebilaucher's path selection section and it will show a folder for you to select genshinImpact.exe .
 
