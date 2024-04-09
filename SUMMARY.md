@@ -1,16 +1,9 @@
 # Table of contents
 
 * [📚 INSTRUCTION / GUIDE](README.md)
-  * [📚 Unicore - Unistar - Unitheft](instruction-guide/unicore-unistar-unitheft.md)
+  * [📖 Uni Empire](instruction-guide/uni-empire.md)
+  * [📖 Akebi](instruction-guide/akebi.md)
 * [👤 INFO & BUY](info-and-buy.md)
-
-## AKEBI ENG
-
-* [📖 INSTRUCTION](akebi-eng/instruction.md)
-* [🕹️ FUNCTIONS](akebi-eng/functions.md)
-* [📈 How to custom TP ?](akebi-eng/how-to-custom-tp.md)
-* [🗃️ Question ?](akebi-eng/question.md)
-* [⚙️ PROBLEMS](akebi-eng/problems.md)
 
 ## Valorant Guide
 

@@ -2,7 +2,7 @@
 description: I've compiled all the errors you need and what you need to run below
 ---
 
-# 📚 Unicore - Unistar - Unitheft
+# 📖 Uni Empire
 
 {% tabs %}
 {% tab title="Loader" %}
