@@ -27,6 +27,7 @@ Create a Folder and put the downloaded file in . For example : Unixxx
 3. Go <mark style="color:blue;">\[Firewall & network protection]</mark> - Turn off 3 part <mark style="color:blue;">(1)\[Domain Network] (2)\[Private Network] (3)\[Public Network]</mark>
 4. Go <mark style="color:blue;">\[App & Bowser control]</mark> - select <mark style="color:blue;">\[Reputation based protection setting]</mark> - Turn Off all
 5. Go <mark style="color:blue;">\[Device security]</mark> - select <mark style="color:blue;">\[Core isolation details]</mark> - Turn off <mark style="color:blue;">\[Memory Integrity]</mark>
+6. **For GTA ( The tool does not support reshaders, Mod )**
 
 ## <mark style="color:yellow;">**Overlay & Injection Issues**</mark>
 
@@ -83,20 +84,27 @@ Valorant's Anti-Cheat :
 * Run our software strictly BEFORE opening the game.
 * Please restart your PC after the game session to fully clean your system.
 
-‎**Unicore Genshin Impact / Honkai: Star Rail**
+<mark style="color:blue;">**`Unicore`**</mark>** and **<mark style="color:blue;">**`Unistar`**</mark>&#x20;
 
-* Run build.exe (loader) with admin permissions.
-* Enter your license key in loader
-* Open Genshin/Honkai launcher and enter the game
-* Press "F2" on your keyboard strictly BEFORE entering the game world.
+•Open loader as administrator, before opening the game.&#x20;
 
-**Unicore GTA V Injection in details**
+•Enter your key in loader.&#x20;
 
-* Run our loader with admin permissions **BEFORE** opening FiveM/RageMP/ALT:V launcher, other case it will lead to game crash.
-* Enter your licence key in loader and pass auth process
-* Open FiveM/RageMP/ALT:V game client
-* Press "F2" on keyboard when you will see your character (you will hear double sound)
-* Press "F9" to open/close the menu
+•Open Game (Genshin or StarRail, depends on key)&#x20;
+
+`F2 reload menu Insert Turn on/off menu`
+
+<mark style="color:orange;">**`Fivem/rage`**</mark>
+
+•Open loader as administrator, before opening the game.&#x20;
+
+•Enter your key in loader. •Open GTA V (FiveM or RageMP, depends on key)&#x20;
+
+`•Press ‘F2’ on keyboard when you will see your character (you will hear double sound)`
+
+`•Press F9 to open / close the menu`&#x20;
+
+•Enjoy!
 {% endtab %}
 
 {% tab title="Show Case" %}
