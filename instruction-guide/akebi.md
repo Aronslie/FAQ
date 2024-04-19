@@ -185,7 +185,61 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 {% endtab %}
 
 {% tab title="Error" %}
+### <mark style="color:yellow;">\[Warn] Found new version. Downloading... \[Error] Version verification failed: The current version is outdated.</mark> <a href="#warn-found-new-version.-downloading...-error-version-verification-failed-the-current-version-is-outd" id="warn-found-new-version.-downloading...-error-version-verification-failed-the-current-version-is-outd"></a>
 
+If after launching you have such a console (screenshot below), it means that an update has been released and a new build (version) has been downloaded to the same folder.
+
+![](https://docs.akebi.wiki/\~gitbook/image?url=https:%2F%2F735162219-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FZbKaBGYDYr0igtCwvs4p%252Fuploads%252FZSa9Xr4SKLlIzQJGXPNn%252Fimage.png%3Falt=media%26token=46f0e65a-3954-488c-906a-2a5dd6b90f47\&width=768\&dpr=4\&quality=100\&sign=785fa4fa8d8d82212fceba3605d2d74d893218c3ac2279897ef76c5e3649184e)
+
+### <mark style="color:yellow;">Interactive Map / Cheat menu is shifted, what to do?</mark> <a href="#interactive-map-cheat-menu-is-shifted-what-to-do" id="interactive-map-cheat-menu-is-shifted-what-to-do"></a>
+
+* Turn off-screen scaling if it is enabled (set it to 100%)
+* If you like to play in **Full Screen** **mode**, and you have _stretched the game resolution from 2560x1440 windowed_ to _your monitor resolution of 3840x2160_ for **Full Screen mode**, then the solution to your problem is below.
+
+**You can :**
+
+* a) Set the maximum screen resolution of the game to match the maximum resolution of your screen _3840x2160 main monitor = 3840x2160 game resolution_ (If it is important for you to play in this mode)
+* b) Reduce the resolution of your display (screen) in Windows settings to a value acceptable to you (**DON'T TOUCH THE SCALE TAB!!!**). And after entering the game you will have in your settings the maximum resolution that you set (_was 3840_ you _set 2560_ in the display settings, so the maximum resolution of the game on the whole _screen will be 2560_).
+
+### <mark style="color:yellow;">The cheat starts the game, but there is no console</mark> <a href="#the-cheat-starts-the-game-but-there-is-no-console" id="the-cheat-starts-the-game-but-there-is-no-console"></a>
+
+1. Check your cfg.json for errors.
+2. Check your cfg.ini for correct path to genshin (check with official launcher where genshin executable file is and compare specified directories).
+3. Try to delete all cfg in cheat folder.
+
+### <mark style="color:yellow;">In the console error \[warn] Exception 0XE (your error)</mark> <a href="#in-the-console-error-warn-exception-0xe-your-error" id="in-the-console-error-warn-exception-0xe-your-error"></a>
+
+#### Solutions to problems (you can try any way) <a href="#solutions-to-problems-you-can-try-any-way" id="solutions-to-problems-you-can-try-any-way"></a>
+
+* Remove all map tags and esp settings from cfg.
+* Remove the paternoster scanner.
+* Check your cfg validity.
+
+### <mark style="color:yellow;">Cheat not responding to hotkeys and other stuff</mark> <a href="#cheat-not-responding-to-hotkeys-and-other-stuff" id="cheat-not-responding-to-hotkeys-and-other-stuff"></a>
+
+* Remove the cfg.json and try to do the actions that didn't work for you again (before that you should configure the cheat as you need it)
+
+### <mark style="color:yellow;">The game starts with the cheat and immediately crashes</mark> <a href="#the-game-starts-with-the-cheat-and-immediately-crashes" id="the-game-starts-with-the-cheat-and-immediately-crashes"></a>
+
+* Check the version of your Windows, if it is lower than Windows10 - Windows11 then the cheat will not run for you (Windwos7, XP, Vista, etc. are not supported, Windows8 is not known).
+* Check your **cfg.json** for broken lines (it could be empty, or the coding is broken, check on JSON validate websites)
+* Check if you have any third-party anticheats running in your processes (vanguard, faceit, etc.)
+* Check if you have antiviruses running (even if you were sure they were turned off, check again, make sure the checkboxes for scanning or protection are turned off).
+* Download the new version of the Lauder from the link you were given, or you know (if you were given a link to the **mega disk**, it is **not a direct link**).
+* Check the path to the **Genshin** and **Akebi** folder, if they contain **broken characters, emoji, invisible characters and anything else that might look weird somehow**, remove them or move the folder to a normal location.
+* Check the version of the game running with the software and without it, if they are different, then you have a path to the old version of the game in the software (change/remove the path in cfg.ini )
+
+### <mark style="color:yellow;">Error at hooking API ''LoadStringA'' Dumping first 32 bytes: 48 8B C4 48 89 58 08</mark> <a href="#error-at-hooking-api-loadstringa-dumping-first-32-bytes-48-8b-c4-48-89-58-08" id="error-at-hooking-api-loadstringa-dumping-first-32-bytes-48-8b-c4-48-89-58-08"></a>
+
+1. Open cmd as administrator
+2. Type in `sfc /scannow`
+3. Wait for the scan to finish
+4. After it is finished, type in `DISM /Online /Clean-up /RestoreHealth`
+5. Restart your PC
+
+### <mark style="color:yellow;">Error at hooking API "LdrFindResource\_U" Dumping first 32 bytes: 48 89 5C 24 08 48</mark> <a href="#error-at-hooking-api-ldrfindresource_u-dumping-first-32-bytes-48-89-5c-24-08-48" id="error-at-hooking-api-ldrfindresource_u-dumping-first-32-bytes-48-89-5c-24-08-48"></a>
+
+Update Microsoft Visual Runtime [https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) (all versions from old to new must be downloaded) or [https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) (run the .bat file after unzipping it into the folder (the six-pointed icon) and wait for the installation)
 
 ### <mark style="color:yellow;">For those of you whose game has 2 drives!</mark>
 
