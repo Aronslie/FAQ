@@ -1,8 +1,8 @@
 # Table of contents
 
-* [📚 INSTRUCTION / GUIDE](README.md)
+* [👤 INFO & BUY](README.md)
+* [📚 INSTRUCTION / GUIDE](<README (1).md>)
   * [📖 Uni Empire](instruction-guide/uni-empire.md)
   * [📖 Akebi](instruction-guide/akebi.md)
   * [📖 Neox](instruction-guide/neox.md)
   * [📖 Korepi](instruction-guide/korepi.md)
-* [👤 INFO & BUY](info-and-buy.md)

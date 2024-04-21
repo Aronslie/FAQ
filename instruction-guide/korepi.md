@@ -80,7 +80,7 @@ Paste the previously downloaded enc.json file into the extracted krp folder
 
 ## <mark style="color:yellow;">How to get File TP ?</mark>
 
-Here : [Click](https://discord.com/channels/1104940962804936856/1157875562799439952)
+Here : [Click](https://discord.com/channels/1104940962804936856/1231627318380859514)
 
 ### <mark style="color:yellow;">How do I turn on the interactive map?</mark>
 

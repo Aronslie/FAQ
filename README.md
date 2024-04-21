@@ -1,26 +1,17 @@
 ---
-cover: >-
-  .gitbook/assets/astronaut_neon_planet_4k_live_wallpaper_by_livewallpaperspc_dg3rcdd-fullview.jpg
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+description: Below is my information written down so you can know who I am
 ---
 
-# 📚 INSTRUCTION / GUIDE
+# 👤 INFO & BUY
 
-## <mark style="color:purple;">**Written By Arons**</mark>
+## Hello my Name Arons , I am an reseller of Key cheats of <mark style="color:purple;">`AKEBI`</mark>, <mark style="color:blue;">`Uni Empire`</mark>, <mark style="color:yellow;">`Korepi`</mark>, <mark style="color:red;">`Neox`</mark> etc.
 
-I would like to remind you that I have written down all of your problems here. IF THERE IS REALLY A PROBLEM, THEN INBOX ME. Your problems are <mark style="color:purple;">**`Akebi`**</mark> , <mark style="color:blue;">**`Unicore`**</mark> , <mark style="color:yellow;">**`Korepi`**</mark> , <mark style="color:red;">**`Neox`**</mark>
+
+
+<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+
+## Here is the link to my sales website :&#x20;
+
+[https://arons.mysellix.io](https://arons.mysellix.io)\
+[https://arons.store](https://arons.store)
 

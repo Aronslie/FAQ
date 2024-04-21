@@ -21,7 +21,7 @@ AKEBI : Genshin Impact | For people with launching problem - [Download](http://a
 
 ## <mark style="color:yellow;">How to get File TP ?</mark>
 
-Here : [Click](https://discord.com/channels/1104940962804936856/1157875562799439952)
+Here : [Click](https://discord.com/channels/1104940962804936856/1231627318380859514)
 
 ### <mark style="color:yellow;">How do I enable kill aura ?</mark>
 
