@@ -27,7 +27,7 @@ Create a Folder and put the downloaded file in . For example : Unixxx
 3. Go <mark style="color:blue;">\[Firewall & network protection]</mark> - Turn off 3 part <mark style="color:blue;">(1)\[Domain Network] (2)\[Private Network] (3)\[Public Network]</mark>
 4. Go <mark style="color:blue;">\[App & Bowser control]</mark> - select <mark style="color:blue;">\[Reputation based protection setting]</mark> - Turn Off all
 5. Go <mark style="color:blue;">\[Device security]</mark> - select <mark style="color:blue;">\[Core isolation details]</mark> - Turn off <mark style="color:blue;">\[Memory Integrity]</mark>
-6. **For GTA ( The tool does not support reshaders, Mod )**
+6. **For `Unitheft` ( The tool does not support reshaders, Mod )**
 
 ## <mark style="color:yellow;">**Overlay & Injection Issues**</mark>
 
