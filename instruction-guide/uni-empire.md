@@ -86,25 +86,33 @@ Valorant's Anti-Cheat :
 
 <mark style="color:blue;">**`Unicore`**</mark>** and **<mark style="color:blue;">**`Unistar`**</mark>&#x20;
 
-•Open loader as administrator, before opening the game.&#x20;
+• Open loader as administrator, before opening the game.&#x20;
 
-•Enter your key in loader.&#x20;
+• Enter your key in loader.&#x20;
 
-•Open Game (Genshin or StarRail, depends on key)&#x20;
+• Start Load
 
-`F2 reload menu Insert Turn on/off menu`
+• Open Game (Genshin or StarRail, depends on key)&#x20;
 
-<mark style="color:orange;">**`Fivem/rage`**</mark>
+• **`F2`** reload menu&#x20;
 
-•Open loader as administrator, before opening the game.&#x20;
+• **`Insert`** Turn on/off menu
 
-•Enter your key in loader. •Open GTA V (FiveM or RageMP, depends on key)&#x20;
+<mark style="color:orange;">**`Fivem/Rage`**</mark>
 
-`•Press ‘F2’ on keyboard when you will see your character (you will hear double sound)`
+<mark style="color:orange;">**->**</mark>**`Unitheft` ( The tool does not support reshaders, Mod )**
 
-`•Press F9 to open / close the menu`&#x20;
+• Open loader as administrator, before opening the game.&#x20;
 
-•Enjoy!
+• Enter your key in loader.&#x20;
+
+• Open GTA V ( **FiveM** or **RageMP**, depends on key )&#x20;
+
+• Press **`F2`** on keyboard when you will see your character ( you will hear double sound )
+
+• Press **`F9`** to open / close the menu&#x20;
+
+• Enjoy!
 {% endtab %}
 
 {% tab title="Show Case" %}
@@ -179,7 +187,7 @@ Internal server error\
 
 ## <mark style="color:blue;">Failed to Find Target Process</mark>&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Check Windows core isolation
 
@@ -189,7 +197,7 @@ Contact Us : Me
 
 ## <mark style="color:blue;">Fix 0xf702f33c & Fatal Error!</mark>
 
-![](<../.gitbook/assets/image (2) (1).png>)![](<../.gitbook/assets/image (1) (1) (1).png>)\
+![](<../.gitbook/assets/image (2) (1) (1).png>)![](<../.gitbook/assets/image (1) (1) (1) (1).png>)\
 Disable Antimalware&#x20;
 
 {% embed url="https://youtu.be/OB4Si1U_0v4" %}
