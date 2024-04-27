@@ -25,7 +25,7 @@ Here : [Click](https://discord.com/channels/1104940962804936856/1231627318380859
 
 ### <mark style="color:yellow;">How do I enable kill aura ?</mark>
 
-* Go to ![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
+* Go to ![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)
 * &#x20;![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>) **Enable** dangerous function , after enabling it will show up at  .<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="original">
 * Enable :
 * &#x20;![](<../.gitbook/assets/image (4) (1).png>)
@@ -137,7 +137,7 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 
 1. Go to <mark style="color:purple;">**\[Custom TP]**</mark> section on the right :
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select <mark style="color:purple;">**\[Enable]**</mark> and click on this icon: ![](<../.gitbook/assets/Screenshot 2023-10-03 130639.png>)
 2.

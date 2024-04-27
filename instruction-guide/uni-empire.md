@@ -130,7 +130,7 @@ Unitheft :&#x20;
 {% endtab %}
 
 {% tab title="Error" %}
-## <mark style="color:blue;">**Genshin Impact bugs / issues manual**</mark>
+## <mark style="color:blue;">**`Genshin Impact bugs / issues manual`**</mark>
 
 No injection at all / no sound effect on <mark style="color:blue;">**F2**</mark> click.\
 **1.** Open Windows Core Isolation settings  <mark style="color:blue;">(can be found in Windows Securite folder)</mark>\
@@ -152,7 +152,7 @@ FACEIT / ESEA / CEVO Clients (CS:GO League Anti-Che..s)\
 Valorants Anti Che..:\
 Vanguard (Valorant Anti-Che.. | [https://support-valorant.riotgames.com/hc/en-us/articles/360044648213-Uninstalling-and-Disabling-Riot-Vanguard](https://support-valorant.riotgames.com/hc/en-us/articles/360044648213-Uninstalling-and-Disabling-Riot-Vanguard))
 
-## <mark style="color:blue;">**Blue Screen error.**</mark>
+## <mark style="color:blue;">**`Blue Screen error.`**</mark>
 
 ![](<../.gitbook/assets/image (14) (1).png>)
 
@@ -162,7 +162,10 @@ Restart your PC and try again in case if the "Blue Screen" error happen 5 times 
 **2.** Go to the C:/windows/minidump folder and send 3 latest minidump files from this folder to the technical administrator.\
 **3.** Windows reinstall.
 
-### <mark style="color:blue;">**Unable to install exploit driver.**</mark>  ![](<../.gitbook/assets/image (15) (1).png>)
+<mark style="color:blue;">**`Unable to install exploit driver.`**</mark>\
+\
+![](<../.gitbook/assets/image (15) (1).png>)
+--------------------------------------------
 
 The “<mark style="color:blue;">Unable to install exploit driver</mark>” error usually occurs due to the presence of an anti-cheat/anti-virus on the PC. Most of the time it happen due to Riot's Vanguard anticheat (league of legends / valorant). Please follow next steps:\
 **1.** Remove all external protection software from your PC.\
@@ -176,18 +179,26 @@ The “<mark style="color:blue;">Unable to install exploit driver</mark>” erro
 **7.** Open "Modules" location\
 ![](<../.gitbook/assets/image (17) (1).png>)
 
-**8.** Search for Anticheat / Antivirus / Protection modules and unload it.\
+**8.** Search for Anticheat / Antivirus / Protection modules and unload it.
+
+## `change game version to Release`
+
+\
 
 
-Internal server error\
-![](<../.gitbook/assets/image (18) (1).png>)
---------------------------------------------
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+`Internal server error`\
+
+
+
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 * It means that web server is currently offline and you need to wait till it back up.
 
 ## <mark style="color:blue;">Failed to Find Target Process</mark>&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Check Windows core isolation
 
@@ -197,7 +208,7 @@ Contact Us : Me
 
 ## <mark style="color:blue;">Fix 0xf702f33c & Fatal Error!</mark>
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)![](<../.gitbook/assets/image (1) (1) (1) (1).png>)\
+![](<../.gitbook/assets/image (2) (1) (1).png>)![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)\
 Disable Antimalware&#x20;
 
 {% embed url="https://youtu.be/OB4Si1U_0v4" %}
