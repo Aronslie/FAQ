@@ -30,7 +30,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-* Discord Server \[210]: Anime Game Modding Group Where heroes make their own 18+ Mods
+* Discord Server \[210]: [Anime Game Modding Group](https://discord.com/invite/AGMG) Where heroes make their own 18+ Mods
 
 > NOTE: Mods will be mods for a certain item so please pay attention to a few things below. When downloading a mod file, it will be a zip file and you need to unzip it and copy the extracted folder to the "Mods" folder in step 2.
 
