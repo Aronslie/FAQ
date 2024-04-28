@@ -71,7 +71,7 @@ Here : [Click](https://discord.com/channels/1104940962804936856/1231627318380859
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Setup" %}
+{% tab title="Step 1" %}
 After downloading, check which version of your window you are using&#x20;
 
 **Warning** : only Window 10 - 11
@@ -103,7 +103,7 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 (3) Pause <mark style="color:purple;">**\[pause key, only for key 30D]**</mark>
 {% endtab %}
 
-{% tab title="Run" %}
+{% tab title="Step 2" %}
 ### <mark style="color:yellow;">**I . RUNNING INSTRUCTIONS**</mark>
 
 1. Winrar Extract to <mark style="color:purple;">\[AkebiPrivate]</mark> and run <mark style="color:purple;">\[Akebilaucher.exe]</mark> , select path <mark style="color:purple;">\[GenshinImpact.exe]</mark> .

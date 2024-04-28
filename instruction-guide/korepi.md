@@ -11,7 +11,7 @@ description: I've compiled all the errors you need and what you need to run belo
 
 {% endtab %}
 
-{% tab title="Setup" %}
+{% tab title="Step 1" %}
 **After downloading, check which version of your window you are using**&#x20;
 
 **Warning** : only Window 10 - 11
@@ -39,7 +39,7 @@ Create a Folder and put the downloaded file in . For example : Unixxx
 Contact the seller to get a loader specifically for Key Korepi
 {% endtab %}
 
-{% tab title="Run" %}
+{% tab title="Step 2" %}
 <mark style="color:yellow;">**I . RUNNING INSTRUCTIONS Micah**</mark>
 
 Paste the previously downloaded enc.json file into the extracted krp folder

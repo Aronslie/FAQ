@@ -11,7 +11,7 @@ description: I've compiled all the errors you need and what you need to run belo
 Contact me to get the loader, because the seller does not want to make the loader public
 {% endtab %}
 
-{% tab title="Setup" %}
+{% tab title="Step 1" %}
 **After downloading, check which version of your window you are using**&#x20;
 
 **Warning** : only Window 10 - 11
@@ -37,7 +37,7 @@ Disable Windows Defender
 [Defender Control v2.1](https://www.sordum.org/9480/defender-control-v2-1/)
 {% endtab %}
 
-{% tab title="Run" %}
+{% tab title="Step 2" %}
 Remember to let the cheat full-screen window Menu appear
 
 •Open loader as administrator, before opening the game.&#x20;

@@ -13,7 +13,7 @@ Unistar : HonkaiStarRail - [Download](https://cdn.discordapp.com/attachments/115
 Unitheft : Fivem/rage - [Download](https://discord.com/channels/1104940962804936856/1158038172295508081/1206643925859835906)
 {% endtab %}
 
-{% tab title="Setup " %}
+{% tab title="Step 1" %}
 After downloading, check which version of your window you are using&#x20;
 
 **Warning** : only Window 10 - 11
@@ -77,7 +77,7 @@ Valorant's Anti-Cheat :
 * Vanguard [Valorant Anti-Cheats](https://support-valorant.riotgames.com/hc/en-us/articles/360044648213-Uninstalling-and-Disabling-Riot-Vanguard)
 {% endtab %}
 
-{% tab title="Run" %}
+{% tab title="Step 2" %}
 **Generic Steps :**
 
 * Make sure you have fully disabled any kind of external protection that may block injection.
