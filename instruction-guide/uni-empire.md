@@ -181,9 +181,8 @@ The “<mark style="color:blue;">Unable to install exploit driver</mark>” erro
 
 **8.** Search for Anticheat / Antivirus / Protection modules and unload it.
 
-## `change game version to Release`
+`change game version to Release FOR Unitheft`\
 
-\
 
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
