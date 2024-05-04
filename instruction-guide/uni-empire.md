@@ -185,7 +185,7 @@ The “<mark style="color:blue;">Unable to install exploit driver</mark>” erro
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 `Internal server error`\
 
@@ -194,23 +194,41 @@ The “<mark style="color:blue;">Unable to install exploit driver</mark>” erro
 <figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 * It means that web server is currently offline and you need to wait till it back up.
+* Description: Most often it is a global error when our server is not responding or down. You need to ask the user to change the server according to this video instruction. [https://youtu.be/f9aonP7ufFk](https://youtu.be/f9aonP7ufFk)
 
-## <mark style="color:blue;">Failed to Find Target Process</mark>&#x20;
+## <mark style="color:blue;">`Failed to Find Target Process`</mark>&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Check Windows core isolation
 
-## <mark style="color:blue;">Error 403</mark>
+## <mark style="color:blue;">`Error 403`</mark>
 
-Contact Us : Me
+Contact : Me
 
-## <mark style="color:blue;">Fix 0xf702f33c & Fatal Error!</mark>
+## <mark style="color:blue;">`Fix 0xf702f33c & Fatal Error!`</mark>
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)\
-Disable Antimalware&#x20;
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+Description: The problem occurs if all 8 servers were unable to process the request or if the user does not have time synchronization enabled in Windows.
+
+How to fix?
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Click on your date, then "adjust date and time"
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Open the settings and select “Sync Now”
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/OB4Si1U_0v4" %}
+
+## Loader doesn't show up, build.exe is disappearing from the task manager.
 {% endtab %}
 {% endtabs %}
 
