@@ -228,7 +228,17 @@ Open the settings and select “Sync Now”
 
 {% embed url="https://youtu.be/OB4Si1U_0v4" %}
 
-## Loader doesn't show up, build.exe is disappearing from the task manager.
+## `Loader doesn't show up, build.exe is disappearing from the task manager.`
+
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+
+Description:  When you try to open loader, and it's not showing up and you see process in Task Manager, you missing DirectX and NetFramework. This occurs because the user has no system files to run the launcher.
+
+How to fix?\
+\
+1\. Install DirectX - [https://www.microsoft.com/en-us/download/details.aspx?id=35](https://www.microsoft.com/en-us/download/details.aspx?id=35)\
+2\. Install Dotnet Framework - [https://dotnet.microsoft.com/en-us/download/dotnet-framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)\
+3\. Install and restart your PC.
 {% endtab %}
 {% endtabs %}
 
