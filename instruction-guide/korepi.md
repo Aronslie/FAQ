@@ -40,7 +40,7 @@ Contact the seller to get a loader specifically for Key Korepi
 {% endtab %}
 
 {% tab title="Step 2" %}
-<mark style="color:yellow;">**I . RUNNING INSTRUCTIONS Micah**</mark>
+<mark style="color:yellow;">**I . RUNNING INSTRUCTIONS Micah -> V : Version**</mark>
 
 Paste the previously downloaded enc.json file into the extracted krp folder
 
@@ -49,7 +49,7 @@ Paste the previously downloaded enc.json file into the extracted krp folder
 * Wait 5s-10s the game will open automatically. When you get to the login screen, DO NOT CLICK ON THE GAME.
 * Then go into the game, and wait for the Petamax version to appear, press <mark style="color:yellow;">**`tab`**</mark> to display the menu
 
-<mark style="color:yellow;">**I . RUNNING INSTRUCTIONS KOREPI**</mark>
+<mark style="color:yellow;">**I . RUNNING INSTRUCTIONS KOREPI -> F : Version**</mark>
 
 * Right-click on the Genshin game on the desktop and select <mark style="color:purple;">\[open file location]</mark> - Scroll up and click on the <mark style="color:purple;">\[Genshin Impact game]</mark> folder. The file <mark style="color:purple;">\[GenshinImpact.exe]</mark> will be there <mark style="color:yellow;">(this is a guide for those who don't know how to use the link of where is the game?)</mark>
 * IT is recommended to put the game in windowed mode to see the CMD panel more easily and not get the Not reponsding error.
