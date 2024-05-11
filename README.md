@@ -1,5 +1,7 @@
 ---
 description: Below is my information written down so you can know who I am
+cover: .gitbook/assets/car-ai-generated-wallppaper-4k.png
+coverY: 0
 ---
 
 # 👤 INFO & BUY
