@@ -14,6 +14,7 @@ coverY: 0
 
 ## Here is the link to my sales website :&#x20;
 
-[https://arons.mysellix.io](https://arons.mysellix.io)\
-[https://arons.store](https://arons.store)
+{% embed url="https://arons.mysellix.io" %}
+
+{% embed url="https://arons.store" %}
 
