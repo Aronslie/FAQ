@@ -193,6 +193,8 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 
 &#x20;![](<../.gitbook/assets/image (1).png>)
 
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+
 
 
 ### <mark style="color:yellow;">\[Warn] Found new version. Downloading... \[Error] Version verification failed: The current version is outdated.</mark> <a href="#warn-found-new-version.-downloading...-error-version-verification-failed-the-current-version-is-outd" id="warn-found-new-version.-downloading...-error-version-verification-failed-the-current-version-is-outd"></a>
