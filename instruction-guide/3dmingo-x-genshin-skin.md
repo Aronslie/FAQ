@@ -16,11 +16,11 @@ description: >-
 * Just click on it and it will automatically download
 * After downloading, use 7-zip or winrar to extract it
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * After unpacking, open the **`Mods`** folder
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Setup" %}
@@ -28,7 +28,7 @@ description: >-
 
 * Website \[1]: [GameBanana](https://gamebanana.com) This website provides mods for many games including Genshin, there are many mods for you to find here. Create an account to be able to download 18+ mods
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Discord Server \[210]: [Anime Game Modding Group](https://discord.com/invite/AGMG) Where heroes make their own 18+ Mods
 

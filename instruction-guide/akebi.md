@@ -25,8 +25,8 @@ Here : [Click](https://discord.com/channels/1104940962804936856/1231627318380859
 
 ### <mark style="color:yellow;">How do I enable kill aura ?</mark>
 
-* Go to ![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
-* &#x20;![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>) **Enable** dangerous function , after enabling it will show up at  .<img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="original">
+* Go to ![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)
+* &#x20;![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>) **Enable** dangerous function , after enabling it will show up at  .<img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="original">
 * Enable :
 * &#x20;![](<../.gitbook/assets/image (4) (1).png>)
 * value to 300-500k dmg ( crash dmg  mode )
@@ -137,7 +137,7 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 
 1. Go to <mark style="color:purple;">**\[Custom TP]**</mark> section on the right :
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select <mark style="color:purple;">**\[Enable]**</mark> and click on this icon: ![](<../.gitbook/assets/Screenshot 2023-10-03 130639.png>)
 2.
@@ -185,6 +185,16 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 {% endtab %}
 
 {% tab title="Error" %}
+## <mark style="color:yellow;">The</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">`Runtime error 5/139. Error: Validation check error`</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">appears when the system time is set incorrectly in Windows.</mark>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+\-> Fix :&#x20;
+
+&#x20;![](<../.gitbook/assets/image (1).png>)
+
+
+
 ### <mark style="color:yellow;">\[Warn] Found new version. Downloading... \[Error] Version verification failed: The current version is outdated.</mark> <a href="#warn-found-new-version.-downloading...-error-version-verification-failed-the-current-version-is-outd" id="warn-found-new-version.-downloading...-error-version-verification-failed-the-current-version-is-outd"></a>
 
 If after launching you have such a console (screenshot below), it means that an update has been released and a new build (version) has been downloaded to the same folder.

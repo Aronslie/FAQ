@@ -29,10 +29,10 @@ Create a Folder and put the downloaded file in . For example : Unixxx
 ## For Micah key :&#x20;
 
 1. Go server : [**`Korepi`**](https://discord.gg/cottonbuds)&#x20;
-2. Go ![](<../.gitbook/assets/image (8).png>) > ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+2. Go ![](<../.gitbook/assets/image (8).png>) > ![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 3. Paste the purchased key both top and bottom then press continue
 4. Download the enc.json file sent by the bot
-5. Go ![](<../.gitbook/assets/image (2) (1) (1).png>) Download the latest version and extract the file with **Winrar** or **7zip**
+5. Go ![](<../.gitbook/assets/image (2) (1) (1) (1).png>) Download the latest version and extract the file with **Winrar** or **7zip**
 
 ## For Korepi key :
 
