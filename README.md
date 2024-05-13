@@ -18,3 +18,9 @@ coverY: 0
 
 {% embed url="https://arons.store" %}
 
+## My partner `Funpay`  ( Ony RU),
+
+## [https://funpay.com/en/users/8429933/](https://funpay.com/en/users/8429933/)
+
+
+
