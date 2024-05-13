@@ -20,7 +20,7 @@ coverY: 0
 
 ## My partner `Funpay`  ( Ony RU),
 
-## [https://funpay.com/en/users/8429933/](https://funpay.com/en/users/8429933/)
+### _<mark style="color:blue;">`Funpay`</mark>_ -> [Click](https://funpay.com/en/users/8429933/)
 
 
 
