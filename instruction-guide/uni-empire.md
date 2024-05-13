@@ -6,11 +6,11 @@ description: I've compiled all the errors you need and what you need to run belo
 
 {% tabs %}
 {% tab title="Loader" %}
-Unicore : Genshin Impact - [Download](https://discord.com/channels/1104940962804936856/1158038172295508081/1206643809811959880)
+Unicore : Genshin Impact - [Download](https://cdn.discordapp.com/attachments/1158038172295508081/1206643809732263986/Unicore.zip?ex=66419c5e\&is=66404ade\&hm=d1bf6f5bee44b6c884aea63c8e84110fd07c90eda8f3be52a5c82c98f84c596f&)
 
-Unistar : HonkaiStarRail - [Download](https://cdn.discordapp.com/attachments/1158038172295508081/1206643840102961152/Unistar.zip?ex=662695a5\&is=661420a5\&hm=0b0a4a4ef32390149f07e2b1d5eff0100c4293cb68d25d81655a1969941cde3c&)
+Unistar : HonkaiStarRail - [Download](https://cdn.discordapp.com/attachments/1158038172295508081/1206643840102961152/Unistar.zip?ex=66419c65\&is=66404ae5\&hm=a38eaa0a82d472fe95339947a7e4df98be5685f96ebb3efaf26ad3a4c05726c3&)
 
-Unitheft : Fivem/rage - [Download](https://discord.com/channels/1104940962804936856/1158038172295508081/1206643925859835906)
+Unitheft : Fivem/rage - [Download](https://cdn.discordapp.com/attachments/1158038172295508081/1206643925771878432/Unitheft.zip?ex=66419c7a\&is=66404afa\&hm=a5a5feefb0226ea631c23436c3a1fa8fce354f2d99b7326339c165faf0070b0c&)
 {% endtab %}
 
 {% tab title="Step 1" %}
