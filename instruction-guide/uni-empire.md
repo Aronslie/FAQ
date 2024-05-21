@@ -208,13 +208,11 @@ Contact : Me
 
 ## <mark style="color:blue;">`Fix 0xf702f33c & Fatal Error!`</mark>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (54).png>)**`-`**<img src="../.gitbook/assets/image (56).png" alt="" data-size="original">
 
 Description: The problem occurs if all 8 servers were unable to process the request or if the user does not have time synchronization enabled in Windows.
 
-How to fix?
+**`Solution 1 :`**&#x20;
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -225,6 +223,24 @@ Click on your date, then "adjust date and time"
 Open the settings and select “Sync Now”
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+**`Solution 2`** :&#x20;
+
+* You Hold down the H button and click Loader
+* Select **`Continue`**\
+  ![](<../.gitbook/assets/image (49).png>)
+*   Select any **`Server`**\
+
+
+    <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+* Wait 15m , after enjoy **`Loader`**&#x20;
+* If within 5-15 minutes **`Loader`** does not perform the response step again, then choose another server
+
+Bước phụ :&#x20;
 
 {% embed url="https://youtu.be/OB4Si1U_0v4" %}
 
