@@ -185,7 +185,7 @@ The “<mark style="color:blue;">Unable to install exploit driver</mark>” erro
 
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 `Internal server error`\
 
@@ -198,9 +198,9 @@ The “<mark style="color:blue;">Unable to install exploit driver</mark>” erro
 
 ## <mark style="color:blue;">`Failed to Find Target Process`</mark>&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Check Windows core isolation
+**Check :** **`Windows core isolation`**
 
 ## <mark style="color:blue;">`Error 403`</mark>
 
@@ -214,19 +214,15 @@ Description: The problem occurs if all 8 servers were unable to process the requ
 
 **`Solution 1 :`**&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+Right click on this location [👇](https://coolsymbol.com/copy/Backhand\_Index\_Pointing\_Down\_Emoji\_Symbol\_%F0%9F%91%87)\
+![](<../.gitbook/assets/image (1).png>)
 
-Click on your date, then "adjust date and time"
+Click on your date, then "adjust date and time" [👇](https://coolsymbol.com/copy/Backhand\_Index\_Pointing\_Down\_Emoji\_Symbol\_%F0%9F%91%87)\
+![](<../.gitbook/assets/image (3).png>)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+Open the settings and select “Sync Now”[👇](https://coolsymbol.com/copy/Backhand\_Index\_Pointing\_Down\_Emoji\_Symbol\_%F0%9F%91%87)
 
-Open the settings and select “Sync Now”
-
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **`Solution 2`** :&#x20;
 
@@ -240,7 +236,7 @@ Open the settings and select “Sync Now”
 * Wait 15m , after enjoy **`Loader`**&#x20;
 * If within 5-15 minutes **`Loader`** does not perform the response step again, then choose another server
 
-Bước phụ :&#x20;
+**`Secondary step`** :&#x20;
 
 {% embed url="https://youtu.be/OB4Si1U_0v4" %}
 
@@ -250,8 +246,7 @@ Bước phụ :&#x20;
 
 Description:  When you try to open loader, and it's not showing up and you see process in Task Manager, you missing DirectX and NetFramework. This occurs because the user has no system files to run the launcher.
 
-How to fix?\
-\
+**`Solution`** [👇](https://coolsymbol.com/copy/Backhand\_Index\_Pointing\_Down\_Emoji\_Symbol\_%F0%9F%91%87)\
 1\. Install DirectX - [https://www.microsoft.com/en-us/download/details.aspx?id=35](https://www.microsoft.com/en-us/download/details.aspx?id=35)\
 2\. Install Dotnet Framework - [https://dotnet.microsoft.com/en-us/download/dotnet-framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)\
 3\. Install and restart your PC.

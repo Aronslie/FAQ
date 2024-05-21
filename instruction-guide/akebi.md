@@ -25,10 +25,10 @@ Here : [Click](https://discord.com/channels/1104940962804936856/1231627318380859
 
 ### <mark style="color:yellow;">How do I enable kill aura ?</mark>
 
-* Go to ![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)
-* &#x20;![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>) **Enable** dangerous function , after enabling it will show up at  .<img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="original">
+* Go to ![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+* &#x20;![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png>) **Enable** dangerous function , after enabling it will show up at  .<img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" data-size="original">
 * Enable :
-* &#x20;![](<../.gitbook/assets/image (4) (1).png>)
+* &#x20;![](<../.gitbook/assets/image (4) (1) (1).png>)
 * value to 300-500k dmg ( crash dmg  mode )
 * Or enable ![](<../.gitbook/assets/image (29).png>)
 
@@ -137,7 +137,7 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 
 1. Go to <mark style="color:purple;">**\[Custom TP]**</mark> section on the right :
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Select <mark style="color:purple;">**\[Enable]**</mark> and click on this icon: ![](<../.gitbook/assets/Screenshot 2023-10-03 130639.png>)
 2.
@@ -147,8 +147,8 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 4. The Custom panel will appear :&#x20;
 5.
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-6. Select Open Folder : ![](<../.gitbook/assets/image (4) (1) (1).png>)
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+6. Select Open Folder : ![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 7. It will automatically create a Teleports folder for you in the AKEBI folder you unzipped to run the game .
 8. Your job now is to <mark style="color:purple;">**\[FIle TP]**</mark> Copy the following files with the extension <mark style="color:purple;">**(.json) :**</mark>
 9.
@@ -187,11 +187,11 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 {% tab title="Error" %}
 ## <mark style="color:yellow;">The</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">`Runtime error 5/139. Error: Validation check error`</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">appears when the system time is set incorrectly in Windows.</mark>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 \-> Fix :&#x20;
 
-&#x20;![](<../.gitbook/assets/image (1).png>)
+&#x20;![](<../.gitbook/assets/image (1) (1).png>)
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
@@ -257,7 +257,7 @@ Update Microsoft Visual Runtime [https://learn.microsoft.com/en-US/cpp/windows/l
 
 Desktop Right click on Genshin and select <mark style="color:orange;">\[Open file Location]</mark> - Scroll up and select the folder <mark style="color:orange;">\[Genshin Impact game]</mark> which will appear to you like this.
 
-![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png>)![](<../.gitbook/assets/image (21).png>)
 
 Then you copy this path into Akebilaucher's path selection section and it will show a folder for you to select genshinImpact.exe .
 
