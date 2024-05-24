@@ -84,7 +84,7 @@ Valorant's Anti-Cheat :
 * Run our software strictly BEFORE opening the game.
 * Please restart your PC after the game session to fully clean your system.
 
-<mark style="color:blue;">**`Unicore`**</mark>** and **<mark style="color:blue;">**`Unistar`**</mark>&#x20;
+<mark style="color:blue;">**`Unicore`**</mark>** and **<mark style="color:blue;">**`Unistar`**</mark>** and **<mark style="color:blue;">**`Uniwase`**</mark>
 
 • Open loader as administrator, before opening the game.&#x20;
 
