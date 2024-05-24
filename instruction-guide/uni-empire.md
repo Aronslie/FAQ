@@ -86,6 +86,8 @@ Valorant's Anti-Cheat :
 
 <mark style="color:blue;">**`Unicore`**</mark>** and **<mark style="color:blue;">**`Unistar`**</mark>** and **<mark style="color:blue;">**`Uniwase`**</mark>
 
+<mark style="color:orange;">**->**</mark>**`Uniwase` ( **<mark style="color:red;">**IMPORTANT**</mark> : DELETE Wuthering Waves\Wuthering Waves Game\Engine\Plugins\Runtime\Nvidia\Streamline **)**
+
 • Open loader as administrator, before opening the game.&#x20;
 
 • Enter your key in loader.&#x20;
