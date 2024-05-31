@@ -22,9 +22,12 @@ Create a Folder and put the downloaded file in . For example : Unixxx
 
 1. Go <mark style="color:blue;">\[Windows Security]</mark> - <mark style="color:blue;">\[Viruss & threat protection]</mark> part <mark style="color:blue;">\[Viruss & threat protection settings]</mark> select \[Manage settings] Turn OFF all .
 2. Exclusions select <mark style="color:blue;">\[ add or remove Exclusions]</mark> select add Folder , Select the created folder and put (Loader) in it before .
-3. Go <mark style="color:blue;">\[Firewall & network protection]</mark> - Turn off 3 part <mark style="color:blue;">(1)\[Domain Network] (2)\[Private Network] (3)\[Public Network]</mark>
-4. Go <mark style="color:blue;">\[App & Bowser control]</mark> - select <mark style="color:blue;">\[Reputation based protection setting]</mark> - Turn Off all
-5. Go <mark style="color:blue;">\[Device security]</mark> - select <mark style="color:blue;">\[Core isolation details]</mark> - Turn off <mark style="color:blue;">\[Memory Integrity]</mark>
+3.  **Or you can use Defend control to skip the above step** [**⇪**](https://coolsymbol.com/copy/Upwards\_White\_Arrow\_from\_Bar\_Symbol\_%E2%87%AA) &#x20;
+
+    ![](https://arons.store/app/main/theme/assets/img/uploads/bdc2c688c574013a8e976286a777f06c83aa04d0.png)
+4. Go <mark style="color:blue;">\[Firewall & network protection]</mark> - Turn off 3 part <mark style="color:blue;">(1)\[Domain Network] (2)\[Private Network] (3)\[Public Network]</mark>
+5. Go <mark style="color:blue;">\[App & Bowser control]</mark> - select <mark style="color:blue;">\[Reputation based protection setting]</mark> - Turn Off all
+6. Go <mark style="color:blue;">\[Device security]</mark> - select <mark style="color:blue;">\[Core isolation details]</mark> - Turn off <mark style="color:blue;">\[Memory Integrity]</mark>
 
 ## <mark style="color:yellow;">**Please make sure that all of these are disabled :**</mark>
 
