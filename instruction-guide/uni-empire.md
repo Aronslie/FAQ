@@ -238,6 +238,12 @@ Open the settings and select “Sync Now”[👇](https://coolsymbol.com/copy/Ba
 * Wait 15m , after enjoy **`Loader`**&#x20;
 * If within 5-15 minutes **`Loader`** does not perform the response step again, then choose another server
 
+**`Solution 3`** :&#x20;
+
+1. Remove all external antivirus programs from your PC and disable Defender.
+2. Install DirectX - [https://www.microsoft.com/en-us/download/details.aspx?id=35](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+3. Uninstall the antivirus / check the PC for viruses.
+
 **`Secondary step`** :&#x20;
 
 {% embed url="https://youtu.be/OB4Si1U_0v4" %}
