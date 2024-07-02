@@ -4,16 +4,22 @@ description: I've compiled all the errors you need and what you need to run belo
 
 # 📖 Uni Empire
 
-{% tabs %}
-{% tab title="Loader" %}
+<details>
+
+<summary><strong><code>LOADER</code></strong></summary>
+
 Unicore : Genshin Impact - [Download](https://cdn.discordapp.com/attachments/1158038172295508081/1206643809732263986/Unicore.zip?ex=66419c5e\&is=66404ade\&hm=d1bf6f5bee44b6c884aea63c8e84110fd07c90eda8f3be52a5c82c98f84c596f&)
 
 Unistar : HonkaiStarRail - [Download](https://cdn.discordapp.com/attachments/1158038172295508081/1206643840102961152/Unistar.zip?ex=66419c65\&is=66404ae5\&hm=a38eaa0a82d472fe95339947a7e4df98be5685f96ebb3efaf26ad3a4c05726c3&)
 
 Unitheft : Fivem/rage - [Download](https://cdn.discordapp.com/attachments/1158038172295508081/1206643925771878432/Unitheft.zip?ex=66419c7a\&is=66404afa\&hm=a5a5feefb0226ea631c23436c3a1fa8fce354f2d99b7326339c165faf0070b0c&)
-{% endtab %}
 
-{% tab title="Step 1" %}
+</details>
+
+<details>
+
+<summary>1<strong><code>Setup PC before injecting loader</code></strong></summary>
+
 After downloading, check which version of your window you are using&#x20;
 
 **Warning** : only Window 10 - 11
@@ -27,8 +33,6 @@ Create a Folder and put the downloaded file in . For example : Unixxx
 3.  **Or you can use Defend control to skip the above step** [**⇪**](https://coolsymbol.com/copy/Upwards\_White\_Arrow\_from\_Bar\_Symbol\_%E2%87%AA) &#x20;
 
     ![](https://arons.store/app/main/theme/assets/img/uploads/bdc2c688c574013a8e976286a777f06c83aa04d0.png)
-
-
 4. Go <mark style="color:blue;">\[Firewall & network protection]</mark> - Turn off 3 part <mark style="color:blue;">(1)\[Domain Network] (2)\[Private Network] (3)\[Public Network]</mark>
 5. Go <mark style="color:blue;">\[App & Bowser control]</mark> - select <mark style="color:blue;">\[Reputation based protection setting]</mark> - Turn Off all
 6. Go <mark style="color:blue;">\[Device security]</mark> - select <mark style="color:blue;">\[Core isolation details]</mark> - Turn off <mark style="color:blue;">\[Memory Integrity]</mark>
@@ -80,9 +84,13 @@ Anti-Cheat :
 Valorant's Anti-Cheat :
 
 * Vanguard [Valorant Anti-Cheats](https://support-valorant.riotgames.com/hc/en-us/articles/360044648213-Uninstalling-and-Disabling-Riot-Vanguard)
-{% endtab %}
 
-{% tab title="Step 2" %}
+</details>
+
+<details>
+
+<summary> 2<strong><code>Run Game</code></strong></summary>
+
 **Generic Steps :**
 
 * Make sure you have fully disabled any kind of external protection that may block injection.
@@ -120,153 +128,8 @@ Valorant's Anti-Cheat :
 • Press **`F9`** to open / close the menu&#x20;
 
 • Enjoy!
-{% endtab %}
 
-{% tab title="Show Case" %}
-Unicore&#x20;
-
-{% embed url="https://www.youtube.com/watch?t=1s&v=UF_n5nPKRJ0" %}
-
-Unistar :&#x20;
-
-{% embed url="https://www.youtube.com/watch?t=5s&v=rVrwtdIX968" %}
-
-Unitheft :&#x20;
-
-{% embed url="https://www.youtube.com/watch?t=252s&v=Qm4fIeja6Sg" %}
-{% endtab %}
-
-{% tab title="Error" %}
-## <mark style="color:blue;">**`Genshin Impact bugs / issues manual`**</mark>
-
-No injection at all / no sound effect on <mark style="color:blue;">**F2**</mark> click.\
-**1.** Open Windows Core Isolation settings  <mark style="color:blue;">(can be found in Windows Securite folder)</mark>\
-**2.** Turn off the core isolation feature\
-![](<../.gitbook/assets/image (13) (1).png>)\
-**3.** Disable all external anticheats on your PC such as <mark style="color:blue;">**"Vanguard", "EAC", "Ricochet"**</mark>.\
-**4.** Download the following files and install:\
-[https://www.microsoft.com/en-us/download/details.aspx?id=35](https://www.microsoft.com/en-us/download/details.aspx?id=35)\
-[https://dotnet.microsoft.com/en-us/download/dotnet-framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)\
-5\. Remove Anti-Virus Software: <mark style="color:blue;">**"Kaspersky" / "Avast" / "Avira"/ "360 total secure"/ etc**</mark>. You need to fully remove antivirus if having this issue.\
-**6.** Restart your PC and try again.\
-Make sure that these programs arent installe :\
-NVIDIA in-game overlay :  GeForce Experience\
-RTSS / RivaTuner (Performance Stats Overlay, this may be bundled with MSI Afterburner)\
-More Anti-Virus:\
-Avast / Norton / Kaspersky (Anti-Virus Software)\
-Anti Che..s:\
-FACEIT / ESEA / CEVO Clients (CS:GO League Anti-Che..s)\
-Valorants Anti Che..:\
-Vanguard (Valorant Anti-Che.. | [https://support-valorant.riotgames.com/hc/en-us/articles/360044648213-Uninstalling-and-Disabling-Riot-Vanguard](https://support-valorant.riotgames.com/hc/en-us/articles/360044648213-Uninstalling-and-Disabling-Riot-Vanguard))
-
-## <mark style="color:blue;">**`Blue Screen error.`**</mark>
-
-![](<../.gitbook/assets/image (14) (1).png>)
-
-Blue Screen (BSOD) may happen due to driver injection failure.\
-Restart your PC and try again in case if the "Blue Screen" error happen 5 times in a row - please follow next steps:\
-**1.** Disable / remove antivirus from your PC (any protection services)\
-**2.** Go to the C:/windows/minidump folder and send 3 latest minidump files from this folder to the technical administrator.\
-**3.** Windows reinstall.
-
-<mark style="color:blue;">**`Unable to install exploit driver.`**</mark>\
-\
-![](<../.gitbook/assets/image (15) (1).png>)
---------------------------------------------
-
-The “<mark style="color:blue;">Unable to install exploit driver</mark>” error usually occurs due to the presence of an anti-cheat/anti-virus on the PC. Most of the time it happen due to Riot's Vanguard anticheat (league of legends / valorant). Please follow next steps:\
-**1.** Remove all external protection software from your PC.\
-**2.** DISABLE / FULLY REMOVE: Ricochet anticheat / Valorant anticheat in case if you have it.\
-**3.** Disable / FULLY REMOVE: FACEIT / ESEA / CEVO Clients (CS:GO League Anti-Che..s)\
-**4.** Download Process hacker 2.\
-**5.** Check the active processes, look for the any enabled protection / security services. Disable it in case if you find it.\
-**6.** Double click on "System"
-
-![](<../.gitbook/assets/image (16) (1).png>)\
-**7.** Open "Modules" location\
-![](<../.gitbook/assets/image (17) (1).png>)
-
-**8.** Search for Anticheat / Antivirus / Protection modules and unload it.
-
-`change game version to Release FOR Unitheft`\
-
-
-
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-
-`Internal server error`\
-
-
-
-<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
-
-* It means that web server is currently offline and you need to wait till it back up.
-* Description: Most often it is a global error when our server is not responding or down. You need to ask the user to change the server according to this video instruction. [https://youtu.be/f9aonP7ufFk](https://youtu.be/f9aonP7ufFk)
-
-## <mark style="color:blue;">`Failed to Find Target Process`</mark>&#x20;
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-**Check :** **`Windows core isolation`**
-
-## <mark style="color:blue;">`Error 403`</mark>
-
-Contact : Me
-
-## <mark style="color:blue;">`Fix 0xf702f33c & Fatal Error!`</mark>
-
-![](<../.gitbook/assets/image (54).png>)**`-`**<img src="../.gitbook/assets/image (56).png" alt="" data-size="original">
-
-Description: The problem occurs if all 8 servers were unable to process the request or if the user does not have time synchronization enabled in Windows.
-
-**`Solution 1 :`**&#x20;
-
-Right click on this location [👇](https://coolsymbol.com/copy/Backhand\_Index\_Pointing\_Down\_Emoji\_Symbol\_%F0%9F%91%87)\
-![](<../.gitbook/assets/image (1).png>)
-
-Click on your date, then "adjust date and time" [👇](https://coolsymbol.com/copy/Backhand\_Index\_Pointing\_Down\_Emoji\_Symbol\_%F0%9F%91%87)\
-![](<../.gitbook/assets/image (3).png>)
-
-Open the settings and select “Sync Now”[👇](https://coolsymbol.com/copy/Backhand\_Index\_Pointing\_Down\_Emoji\_Symbol\_%F0%9F%91%87)
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-**`Solution 2`** :&#x20;
-
-* You Hold down the H button and click Loader
-* Select **`Continue`**\
-  ![](<../.gitbook/assets/image (49).png>)
-*   Select any **`Server`**\
-
-
-    <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
-* Wait 15m , after enjoy **`Loader`**&#x20;
-* If within 5-15 minutes **`Loader`** does not perform the response step again, then choose another server
-
-**`Solution 3`** :&#x20;
-
-1. Remove all external antivirus programs from your PC and disable Defender.
-2. Install DirectX - [https://www.microsoft.com/en-us/download/details.aspx?id=35](https://www.microsoft.com/en-us/download/details.aspx?id=35)
-3. Uninstall the antivirus / check the PC for viruses.
-
-**`Secondary step`** :&#x20;
-
-{% embed url="https://youtu.be/OB4Si1U_0v4" %}
-
-## `Loader doesn't show up, build.exe is disappearing from the task manager.`
-
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
-
-Description:  When you try to open loader, and it's not showing up and you see process in Task Manager, you missing DirectX and NetFramework. This occurs because the user has no system files to run the launcher.
-
-**`Solution`** [👇](https://coolsymbol.com/copy/Backhand\_Index\_Pointing\_Down\_Emoji\_Symbol\_%F0%9F%91%87)\
-1\. Install DirectX - [https://www.microsoft.com/en-us/download/details.aspx?id=35](https://www.microsoft.com/en-us/download/details.aspx?id=35)\
-2\. Install Dotnet Framework - [https://dotnet.microsoft.com/en-us/download/dotnet-framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)\
-3\. Install and restart your PC.
-{% endtab %}
-{% endtabs %}
-
-
+</details>
 
 
 

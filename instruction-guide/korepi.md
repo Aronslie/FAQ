@@ -4,14 +4,18 @@ description: I've compiled all the errors you need and what you need to run belo
 
 # 📖 Korepi
 
+<details>
+
+<summary><strong><code>LOADER</code></strong></summary>
 
 
-{% tabs %}
-{% tab title="Loader" %}
 
-{% endtab %}
+</details>
 
-{% tab title="Step 1" %}
+<details>
+
+<summary>1<strong><code>Setup PC before injecting loader</code></strong></summary>
+
 **After downloading, check which version of your window you are using**&#x20;
 
 **Warning** : only Window 10 - 11
@@ -40,9 +44,15 @@ Create a Folder and put the downloaded file in . For example : Unixxx
 ## For Korepi key :
 
 Contact the seller to get a loader specifically for Key Korepi
-{% endtab %}
 
-{% tab title="Step 2" %}
+</details>
+
+<details>
+
+<summary> 2<strong><code>Run Game</code></strong></summary>
+
+
+
 <mark style="color:yellow;">**I . RUNNING INSTRUCTIONS Micah -> V : Version**</mark>
 
 Paste the previously downloaded enc.json file into the extracted krp folder
@@ -59,71 +69,8 @@ Paste the previously downloaded enc.json file into the extracted krp folder
 * Wait 5s-10s the game will open automatically. When you get to the login screen, DO NOT CLICK ON THE GAME.
 * Wait a 5-10s, it will appear on the CMD panel, Enter key . \[key has the form: Korepi-...] .
 * Then go into the game, and wait for the Petamax version to appear, press <mark style="color:yellow;">**`tab`**</mark> to display the menu
-{% endtab %}
 
-{% tab title="Show Case " %}
-{% embed url="https://www.youtube.com/watch?t=1s&v=3WSUYL2DIXc" %}
-{% endtab %}
-
-{% tab title="Custom Tp" %}
-## Please watch the entire video
-
-{% embed url="https://www.youtube.com/watch?v=GJqloJRSuyI" %}
-{% endtab %}
-
-{% tab title="Question " %}
-
-
-## <mark style="color:purple;">`Question You need`</mark>&#x20;
-
-## <mark style="color:yellow;">How To Safe ?</mark>
-
-* The advice for you guys is to keep the delay range 20m, 30m, don't touch it.
-* Don't go to other people's Worlds <mark style="color:blue;">(friends, bth)</mark> if it doesn't have RP or Lo UID Whether it is safe or not is a matter of chance, there is no cheat that is 100% safe except for 1 house but has few features.
-
-## <mark style="color:yellow;">How to get File TP ?</mark>
-
-Here : [Click](https://discord.com/channels/1104940962804936856/1231627318380859514)
-
-### <mark style="color:yellow;">How do I turn on the interactive map?</mark>
-
-* Open the map - Look at the left corner of the map. The word sync map will appear .
-* Just pull it out like a menu .
-
-### <mark style="color:yellow;">Why isn't my auto-challenge working?</mark>
-
-* Turn off no clip  .
-* Check the operating range and if it's too far, run along the path until it gets it .
-
-### <mark style="color:yellow;">Why can't you solve the puzzle yourself?</mark>
-
-* It will do whatever is in the filter .
-* Otherwise, understand .
-
-### <mark style="color:yellow;">Why is my Menu so small? How can I make it as big as the video?</mark>
-
-* When you open the menu, look at the right corner of the menu and you will see this <img src="../.gitbook/assets/image (23).png" alt="" data-size="line"> scale here&#x20;
-
-### <mark style="color:yellow;">How can I see the description of that feature and what effect it has?</mark>
-
-* Point your mouse on this icon![](<../.gitbook/assets/image (22).png>)it will describe the function for you.
-
-### <mark style="color:yellow;">How to display file extensions like json, exe etc!</mark>
-
-* File .json (for those who don't see it ) - go to the teleports folder press View-go to the show section and select File name extension :
-*
-
-    <figure><img src="../.gitbook/assets/Screenshot 2023-10-03 132433.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Problem" %}
-
-{% endtab %}
-{% endtabs %}
-
-
+</details>
 
 
 
