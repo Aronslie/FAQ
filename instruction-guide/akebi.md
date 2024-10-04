@@ -53,6 +53,23 @@ Select <mark style="color:purple;">\[Details]</mark> - <mark style="color:purple
 
 (3) Pause <mark style="color:purple;">**\[pause key, only for key 30D]**</mark>
 
+{% code title="Install Driver " %}
+```
+Driectx : https://www.microsoft.com/en-us/download/details.aspx?id=35
+NetWork : https://dotnet.microsoft.com/en-us/download/dotnet-framework
+```
+{% endcode %}
+
+{% code title="Remove & Disable Apps " fullWidth="true" %}
+```
+1. Disable Windows Defends Any Things 
+2. Remove Third Antivirus , Or Anticheat 
+3. Remove/Disable Overplay software
+4. Remove/Disable Logitech GHUB , Razer Any Hub
+4. Remove/Disable Reshader Any Mod 
+```
+{% endcode %}
+
 </details>
 
 <details>

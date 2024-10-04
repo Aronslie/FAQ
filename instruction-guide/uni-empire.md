@@ -38,58 +38,28 @@ Create a Folder and put the downloaded file in . For example : Unixxx
 6. Go <mark style="color:blue;">\[Device security]</mark> - select <mark style="color:blue;">\[Core isolation details]</mark> - Turn off <mark style="color:blue;">\[Memory Integrity]</mark>
 7. **For `Unitheft` ( The tool does not support reshaders, Mod )**
 
-## <mark style="color:yellow;">**Overlay & Injection Issues**</mark>
+{% code title="Install Driver " %}
+```
+Driectx : https://www.microsoft.com/en-us/download/details.aspx?id=35
+NetWork : https://dotnet.microsoft.com/en-us/download/dotnet-framework
+```
+{% endcode %}
 
-Please make sure that all of these are installed in your system :
-
-DirectX End-User Runtime :
-
-[DirectX End-User Runtime Web Installer](https://www.microsoft.com/en-us/download/details.aspx?id=35)
-
-NET Framework :
-
-[Download .NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
-
-Please try suggestions. If the issue proceeds, please explain in your ticket and a staff member will assist as soon as possible.
-
-## <mark style="color:yellow;">‎</mark><mark style="color:yellow;">**Please make sure that all of these are disabled :**</mark>
-
-Firewall (Private, Public, and Domain)
-
-[Turn Microsoft Defender Firewall on or off](https://support.microsoft.com/en-gb/help/4028544/windows-10-turn-microsoft-defender-firewall-on-or-off)
-
-Disable Windows Defender
-
-[Defender Control v2.1](https://www.sordum.org/9480/defender-control-v2-1/)
-
-‎ ‎ **Remove Anti-Virus Software:**
-
-* Windows defender (Real-time Protection, Cloud-delivered Protection, and Automatic Sample Submission)
-* Windows Core isolation :
-
-(Turn off) Then Restart PC.
-
-## <mark style="color:yellow;">**Make sure that these programs aren't installed :**</mark>
-
-NVIDIA in-game overlay : GeForce Experience RTSS / RivaTuner (Performance Stats Overlay, this may be bundled with MSI Afterburner)
-
-More Anti-Virus :
-
-* Avast / Norton / Kaspersky (Anti-Virus Software) etc
-
-Anti-Cheat :
-
-* FACEIT / ESEA / CEVO Clients (CS:GO League Anti-Cheats)
-
-Valorant's Anti-Cheat :
-
-* Vanguard [Valorant Anti-Cheats](https://support-valorant.riotgames.com/hc/en-us/articles/360044648213-Uninstalling-and-Disabling-Riot-Vanguard)
+{% code title="Remove & Disable Apps " fullWidth="true" %}
+```
+1. Disable Windows Defends Any Things 
+2. Remove Third Antivirus , Or Anticheat 
+3. Remove/Disable Overplay software
+4. Remove/Disable Logitech GHUB , Razer Any Hub
+4. Remove/Disable Reshader Any Mod 
+```
+{% endcode %}
 
 </details>
 
 <details>
 
-<summary> 2<strong><code>Run Game</code></strong></summary>
+<summary> <code>2</code><strong><code>Run Game</code></strong></summary>
 
 **Generic Steps :**
 

@@ -12,7 +12,7 @@ description: I've compiled all the errors you need and what you need to run belo
 
 <summary><strong><code>LOADER</code></strong></summary>
 
-
+Create Ticket And DM me in Discord Server
 
 </details>
 
@@ -37,15 +37,22 @@ Create a Folder and put the downloaded file in . For example : Unixxx
 5. Go <mark style="color:blue;">\[App & Bowser control]</mark> - select <mark style="color:blue;">\[Reputation based protection setting]</mark> - Turn Off all
 6. Go <mark style="color:blue;">\[Device security]</mark> - select <mark style="color:blue;">\[Core isolation details]</mark> - Turn off <mark style="color:blue;">\[Memory Integrity]</mark>
 
-## <mark style="color:yellow;">**Please make sure that all of these are disabled :**</mark>
+{% code title="Install Driver " %}
+```
+Driectx : https://www.microsoft.com/en-us/download/details.aspx?id=35
+NetWork : https://dotnet.microsoft.com/en-us/download/dotnet-framework
+```
+{% endcode %}
 
-Firewall (Private, Public, and Domain)
-
-[Turn Microsoft Defender Firewall on or off](https://support.microsoft.com/en-gb/help/4028544/windows-10-turn-microsoft-defender-firewall-on-or-off)
-
-Disable Windows Defender
-
-[Defender Control v2.1](https://www.sordum.org/9480/defender-control-v2-1/)
+{% code title="Remove & Disable Apps " fullWidth="true" %}
+```
+1. Disable Windows Defends Any Things 
+2. Remove Third Antivirus , Or Anticheat 
+3. Remove/Disable Overplay software
+4. Remove/Disable Logitech GHUB , Razer Any Hub
+4. Remove/Disable Reshader Any Mod 
+```
+{% endcode %}
 
 </details>
 
@@ -79,7 +86,7 @@ Remember to let the cheat full-screen window Menu appear
 
 <summary><strong><code>LOADER</code></strong></summary>
 
-
+Create Ticket And DM me in Discord Server
 
 </details>
 
@@ -104,13 +111,22 @@ Create a Folder and put the downloaded file in . For example : Unixxx
 5. Go <mark style="color:blue;">\[App & Bowser control]</mark> - select <mark style="color:blue;">\[Reputation based protection setting]</mark> - Turn Off all
 6. Go <mark style="color:blue;">\[Device security]</mark> - select <mark style="color:blue;">\[Core isolation details]</mark> - Turn off <mark style="color:blue;">\[Memory Integrity]</mark>
 
-## <mark style="color:yellow;">**Please make sure that all of these are disabled :**</mark>
+{% code title="Install Driver " %}
+```
+Driectx : https://www.microsoft.com/en-us/download/details.aspx?id=35
+NetWork : https://dotnet.microsoft.com/en-us/download/dotnet-framework
+```
+{% endcode %}
 
-Firewall (Private, Public, and Domain)
-
-[Turn Microsoft Defender Firewall on or off](https://support.microsoft.com/en-gb/help/4028544/windows-10-turn-microsoft-defender-firewall-on-or-off)
-
-Disable Windows Defender
+{% code title="Remove & Disable Apps " fullWidth="true" %}
+```
+1. Disable Windows Defends Any Things 
+2. Remove Third Antivirus , Or Anticheat 
+3. Remove/Disable Overplay software
+4. Remove/Disable Logitech GHUB , Razer Any Hub
+4. Remove/Disable Reshader Any Mod 
+```
+{% endcode %}
 
 [Defender Control v2.1](https://www.sordum.org/9480/defender-control-v2-1/)
 
