@@ -2,7 +2,7 @@
 description: I've compiled all the errors you need and what you need to run below
 ---
 
-# 📖 Neox
+# 4️⃣ Neox
 
 {% hint style="info" %}
 **`NEOX`**
@@ -18,19 +18,19 @@ Create Ticket And DM me in Discord Server
 
 <details>
 
-<summary>1<strong><code>Setup PC before injecting loader</code></strong></summary>
+<summary><strong><code>Setup PC before injecting loader</code></strong></summary>
 
 **After downloading, check which version of your window you are using**&#x20;
 
 **Warning** : only Window 10 - 11
 
-## **I . RUNNING INSTRUCTIONS**
+## **`I.RUNNING INSTRUCTIONS`**
 
 Create a Folder and put the downloaded file in . For example : Unixxx
 
 1. Go <mark style="color:blue;">\[Windows Security]</mark> - <mark style="color:blue;">\[Viruss & threat protection]</mark> part <mark style="color:blue;">\[Viruss & threat protection settings]</mark> select \[Manage settings] Turn OFF all .
 2. Exclusions select <mark style="color:blue;">\[ add or remove Exclusions]</mark> select add Folder , Select the created folder and put (Loader) in it before .
-3.  **Or you can use Defend control to skip the above step** [**⇪**](https://coolsymbol.com/copy/Upwards\_White\_Arrow\_from\_Bar\_Symbol\_%E2%87%AA) &#x20;
+3.  **Or you can use Defend control to skip the above step** [**⇪**](https://coolsymbol.com/copy/Upwards_White_Arrow_from_Bar_Symbol_%E2%87%AA) &#x20;
 
     ![](https://arons.store/app/main/theme/assets/img/uploads/bdc2c688c574013a8e976286a777f06c83aa04d0.png)
 4. Go <mark style="color:blue;">\[Firewall & network protection]</mark> - Turn off 3 part <mark style="color:blue;">(1)\[Domain Network] (2)\[Private Network] (3)\[Public Network]</mark>
@@ -58,23 +58,20 @@ NetWork : https://dotnet.microsoft.com/en-us/download/dotnet-framework
 
 <details>
 
-<summary> 2<strong><code>Run Game</code></strong></summary>
+<summary> <strong><code>Run Game</code></strong></summary>
 
+```
 Remember to let the cheat full-screen window Menu appear
-
-•Open loader as administrator, before opening the game.&#x20;
-
-• Login Or Register ( Token this Key )&#x20;
-
-• Load&#x20;
-
+• Open loader as administrator, before opening the game. 
+• Login Or Register ( Token this Key ) 
+• Load 
 • Open Game
+• Insert Show | Hide Menue
+```
 
-• Insert Show | Hide Menu
+## `Please watch the entire video tutorial`
 
-## Please watch the entire video tutorial
-
-[https://youtu.be/tFh\_ENKDCig](https://youtu.be/tFh\_ENKDCig)
+[https://youtu.be/tFh\_ENKDCig](https://youtu.be/tFh_ENKDCig)
 
 </details>
 
@@ -92,19 +89,19 @@ Create Ticket And DM me in Discord Server
 
 <details>
 
-<summary>1<strong><code>Setup PC before injecting loader</code></strong></summary>
+<summary><strong><code>Setup PC before injecting loader</code></strong></summary>
 
 **After downloading, check which version of your window you are using**&#x20;
 
 **Warning** : only Window 10&#x20;
 
-## **I . RUNNING INSTRUCTIONS**
+## **`I.RUNNING INSTRUCTIONS`**
 
 Create a Folder and put the downloaded file in . For example : Unixxx
 
 1. Go <mark style="color:blue;">\[Windows Security]</mark> - <mark style="color:blue;">\[Viruss & threat protection]</mark> part <mark style="color:blue;">\[Viruss & threat protection settings]</mark> select \[Manage settings] Turn OFF all .
 2. Exclusions select <mark style="color:blue;">\[ add or remove Exclusions]</mark> select add Folder , Select the created folder and put (Loader) in it before .
-3.  **Or you can use Defend control to skip the above step** [**⇪**](https://coolsymbol.com/copy/Upwards\_White\_Arrow\_from\_Bar\_Symbol\_%E2%87%AA) &#x20;
+3.  **Or you can use Defend control to skip the above step** [**⇪**](https://coolsymbol.com/copy/Upwards_White_Arrow_from_Bar_Symbol_%E2%87%AA) &#x20;
 
     ![](https://arons.store/app/main/theme/assets/img/uploads/bdc2c688c574013a8e976286a777f06c83aa04d0.png)
 4. Go <mark style="color:blue;">\[Firewall & network protection]</mark> - Turn off 3 part <mark style="color:blue;">(1)\[Domain Network] (2)\[Private Network] (3)\[Public Network]</mark>
@@ -134,22 +131,19 @@ NetWork : https://dotnet.microsoft.com/en-us/download/dotnet-framework
 
 <details>
 
-<summary> 2<strong><code>Run Game</code></strong></summary>
+<summary> <strong><code>Run Game</code></strong></summary>
 
+```
 Remember to let the cheat full-screen window Menu appear
-
-•Open loader as administrator, before opening the game.&#x20;
-
-• Login Or Register ( Token this Key )&#x20;
-
-• Load&#x20;
-
+• Open loader as administrator, before opening the game. 
+• Login Or Register ( Token this Key ) 
+• Load 
 • Open Game
-
 • Insert Show | Hide Menu
+```
 
-## Please watch the entire video tutorial
+## `Please watch the entire video tutorial`
 
-[https://youtu.be/tFh\_ENKDCig](https://youtu.be/tFh\_ENKDCig)
+[https://youtu.be/tFh\_ENKDCig](https://youtu.be/tFh_ENKDCig)
 
 </details>

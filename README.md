@@ -6,21 +6,15 @@ coverY: 0
 
 # 👤 INFO & BUY
 
-## Hello my Name Arons , I am an reseller of Key cheats of <mark style="color:purple;">`AKEBI`</mark>, <mark style="color:blue;">`Uni Empire`</mark>, <mark style="color:yellow;">`Korepi`</mark>, <mark style="color:red;">`Neox`</mark> etc.
+**Hello everyone**, thank you for visiting this Docs First I will introduce myself here if you have any problem check on the left side Menu For mobile users you can press the 3 lines icon on the left side on the screen
 
+I am an <mark style="color:yellow;">`Official Agent ( Reseller )`</mark> confirmed by Cheats, Tools like `AKEBI` , `UNIEMPIRE` , `NEOX` , `NILULI` , `MEOWAVES` , ETC&#x20;
 
+{% code title="Below is my official website" lineNumbers="true" %}
+```
+Arons.Store
+Arons.sellix.io
+```
+{% endcode %}
 
-<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
-
-## Here is the link to my sales website :&#x20;
-
-{% embed url="https://arons.mysellix.io" %}
-
-{% embed url="https://arons.store" %}
-
-## My partner `Funpay`  ( Ony RU),
-
-### _<mark style="color:blue;">`Funpay`</mark>_ -> [Click](https://funpay.com/en/users/8429933/)
-
-
-
+<figure><img src=".gitbook/assets/InfoDiscord.png" alt=""><figcaption></figcaption></figure>
